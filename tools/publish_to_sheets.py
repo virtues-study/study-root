@@ -61,7 +61,7 @@ def normalize_refs(refs: Any) -> str:
 
 
 def build_elements() -> list[list[str]]:
-    header = ["id", "label", "type", "family", "tags", "refs", "path"]
+    header = ["Label", "id", "type", "family", "tags", "refs", "path"]
     rows: list[list[str]] = [header]
 
     for base in (VIRTUES_DIR, VICES_DIR):
@@ -73,7 +73,7 @@ def build_elements() -> list[list[str]]:
                 continue  # skip files without YAML front matter
 
             _id = str(fm.get("id", "")).strip()
-            label = str(fm.get("label", "")).strip()
+            label = str(fm.get("label", _id)).strip()
             typ = str(fm.get("type", fm.get("kind", ""))).strip()
             family = str(fm.get("family", "")).strip()
             tags = normalize_tags(fm.get("tags"))
@@ -83,7 +83,7 @@ def build_elements() -> list[list[str]]:
                 continue  # id is required
 
             rel_path = md.relative_to(ROOT).as_posix()
-            rows.append([_id, label, typ, family, tags, refs, rel_path])
+            rows.append([label, _id, typ, family, tags, refs, rel_path])
 
     return rows
 
@@ -91,7 +91,8 @@ def build_elements() -> list[list[str]]:
 def build_connections() -> list[list[str]]:
     # We canonicalize columns for Kumu/Sheets:
     # from, to, type, weight, ref, note
-    header = ["from", "to", "type", "weight", "ref", "note"]
+    header = ["From", "To", "type", "weight", "ref", "note"]
+
     rows: list[list[str]] = [header]
 
     if not RELATIONS_DIR.exists():
