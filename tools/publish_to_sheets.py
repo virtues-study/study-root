@@ -56,7 +56,7 @@ def main() -> None:
     creds, _ = default(scopes=["https://www.googleapis.com/auth/spreadsheets"])
     sheets = build("sheets", "v4", credentials=creds).spreadsheets()
 
-    # Minimal smoke-test payload (replace later with real export)
+    # Minimal smoke-test payload (replace later with real export) just for test
     elements = [
         ["id", "label", "type", "family"],
         ["faith", "Faith", "virtue", "theological"],
