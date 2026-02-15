@@ -1,3 +1,19 @@
+---
+id: virtue-definition
+label: Virtue
+type: definition
+family: no
+tags: [definition]
+
+refs:
+  - CCC: "1803, 1804"
+  - Aristotles: "Nicomachean Ethics I.7, II.6"
+  - Bible: "Phil 4:8"
+  - Father: "Gregory of Nysa, De Beatitudinibus, 1 PG 44, 1200D"
+---
+
+
+
 # Definition
 
 

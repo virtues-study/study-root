@@ -18,3 +18,5 @@ high
 
 ## Notes
 Use when A *elevates* or *fulfills* B, not merely supports it.
+
+Edge rows: from, to, type, weight, ref, note
