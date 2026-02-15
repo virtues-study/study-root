@@ -1,3 +1,11 @@
+---
+id: faith
+label: Faith
+kind: virtue
+family: theological
+tags: [assent, intellect, revelation, baptism]
+---
+
 # Faith
 
 ## Type
