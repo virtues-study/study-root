@@ -1,10 +1,16 @@
 ---
 id: faith
 label: Faith
-kind: virtue
+type: virtue
 family: theological
 tags: [assent, intellect, revelation, baptism]
+
+refs:
+  - CCC: "1814"
+  - ST: "II-II, q.1–7"
+  - Bible: "Heb 11:1"
 ---
+
 
 # Faith
 
