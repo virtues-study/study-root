@@ -17,3 +17,26 @@ refs:
 
 ## Definition
 (Placeholder — to be added.)
+
+
+## Colors
+black
+white
+gray
+grey
+silver
+maroon
+brown
+olive
+lime
+teal
+aqua
+cyan
+navy
+purple
+magenta
+pink
+gold
+indigo
+violet
+crimson
