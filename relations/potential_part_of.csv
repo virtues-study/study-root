@@ -1,2 +1,5 @@
 from,to,weight,ref,note
 religion,justice,1.0,ST II-II q.81,Religion as a potential part of justice
+piety,justice,1.0,ST II-II Q80-Q101,Civic/familial piety is a potential part annexed to justice.
+observance,justice,1.0,ST II-II Q80-Q102,Observance is a potential part annexed to justice.
+gratitude,justice,1.0,ST II-II Q80-Q106,Gratitude is a potential part annexed to justice.
