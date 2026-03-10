@@ -1,0 +1,5 @@
+# _config.yml
+title: Virtues Map
+description: A map of virtues, vices, relations, and references.
+theme: minima
+markdown: kramdown
