@@ -50,3 +50,34 @@ The moral virtues are acquired by human effort. They are the fruit and seed of m
 
 ## Notes
 At some point we need to add to this the discussion between infused, acquired, theological, and natural virtues.
+
+
+---
+title: Virtues
+---
+
+# Virtues
+
+## Theological Virtues
+- [Charity](./theological/charity.md)
+- [Faith](./theological/faith.md)
+- [Hope](./theological/hope.md)
+
+## Cardinal Virtues
+- [Prudence](./cardinal/prudence.html)
+- [Justice](./cardinal/justice.html)
+- [Fortitude](./cardinal/fortitude.html)
+- [Temperance](./cardinal/temperance.html)
+
+## From the Fruits of the Spirit
+**TODO**
+
+## From the Gifts of the Spirit
+**TODO**
+
+## Related Virtues
+**TODO**
+
+## Other
+**TODO**
+
