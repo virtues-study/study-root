@@ -15,5 +15,23 @@ refs:
 ![Cardinal](https://img.shields.io/badge/Family-Cardinal-maroon)
 
 
+
 ## Definition
-(Placeholder — to be added.)
+
+### Dictionary
+
+### New Advent Encyclopedia
+
+### Catechism of the Catholic Church
+
+### Victory over Vice
+
+### Magisterium AI
+
+### Other Sources
+
+## Ideas
+
+## Examples
+
+---
