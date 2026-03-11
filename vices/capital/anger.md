@@ -6,7 +6,7 @@ family: capital
 tags: [wrath]
 
 refs:
-  - CCC: "377, 1809, 2290"
+  - CCC: "2302"
   - ST: "x"
 ---
 
