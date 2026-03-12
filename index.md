@@ -2,7 +2,8 @@
 title: Virtues Map
 ---
 
-# Virtues Map
+x*
+
 
 A structured map of virtues, vices, and their relationships in the Christian moral tradition.
 
