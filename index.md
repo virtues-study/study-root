@@ -105,7 +105,7 @@ This site is also the canonical content source for future graph and spreadsheet 
 
 
 ---
-
+ 
 # Repository
 
 The source repository for this project is available on GitHub:
