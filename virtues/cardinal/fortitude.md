@@ -3,11 +3,20 @@ id: fortitude
 label: Fortitude
 type: virtue
 family: cardinal
-tags: [strength, courage]
-
+tags:
+  - virtue
+  - cardinal
+  - courage
 refs:
-  - CCC: "1808"
-  - ST: "x"
+  - aquinas
+  - catechism
+summary: ""
+aliases:
+  - courage
+related:
+  - justice
+  - temperance
+  - prudence
 ---
 
 # Fortitude

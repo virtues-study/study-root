@@ -4,43 +4,50 @@ title: Virtues Map
 
 # Virtues Map
 
-**Virtues Map** is an open knowledge project that organizes virtues, vices, and their relationships using a structured graph.
+A structured map of virtues, vices, and their relationships in the Christian moral tradition.
 
 The project draws primarily from the **Aristotelian and Thomistic tradition**, especially the framework of the **cardinal virtues** and their related moral qualities.
 
-The goal is to build a navigable map showing:
+## Purpose
 
-- virtues
-- vices
-- the relationships between them
-- references from classical sources
+This project organizes virtues, vices, references, and relations into a navigable knowledge base that can also support graph export and visualization.
 
-This repository serves as the **canonical source of the data**, which is then used to generate:
+The Virtues Map aims to:
 
-- a GitHub Pages website
-- a graph visualization (Kumu)
-- structured datasets
+- organize moral knowledge in a structured way
+- make classical virtue ethics easier to explore
+- visualize relationships between virtues and vices
+- provide a dataset usable for research, education, and visualization
 
----
 
-# The Structure of the Map
+
+## Main Sections
 
 The knowledge base is organized into four main areas.
 
-## Virtues
+- [Virtues](virtues/)
+- [Vices](vices/)
+- [Relations](relations/)
+- [References](references/)
+
+### Virtues
 
 Virtues are stable dispositions that perfect human action and guide moral decision making.
 
-Examples include:
+### [Cardinal Virtues](virtues/cardinal/)
 
-- Prudence
-- Justice
-- Fortitude
-- Temperance
+- [Prudence](virtues/cardinal/prudence.md)
+- [Justice](virtues/cardinal/justice.md)
+- [Temperance](virtues/cardinal/temperance.md)
+- [Fortitude](virtues/cardinal/fortitude.md)
 
-➡ Browse the virtues:
 
-- [Cardinal Virtues](./virtues/cardinal/)
+### Theological
+
+- Charity
+- Faith
+- Hope
+
 
 ---
 
@@ -48,20 +55,16 @@ Examples include:
 
 Vices are distortions or failures of virtue.
 
-Examples include:
+### [Capital Vices](./vices/capital/)
 
-- Pride
-- Greed
-- Envy
-- Sloth
-
-➡ Browse the vices:
-
-- [Capital Vices](./vices/capital/)
+- [Imprudence](vices/opposed/imprudence.md)
+- [Injustice](vices/opposed/injustice.md)
+- [Intemperance](vices/opposed/intemperance.md)
+- [Cowardice](vices/opposed/cowardice.md)
 
 ---
 
-## Relations
+### Relations
 
 Virtues and vices are connected by structured relationships such as:
 
@@ -75,11 +78,6 @@ Virtues and vices are connected by structured relationships such as:
 
 These relationships form a **graph of moral concepts**.
 
-➡ Explore relation types:
-
-- [Relations](./relations/)
-
----
 
 ## References
 
@@ -93,16 +91,18 @@ The project includes references from important sources including:
 
 - [References](./references/)
 
----
 
-# Project Goals
 
-The Virtues Map aims to:
+## Initial Focus
 
-- organize moral knowledge in a structured way
-- make classical virtue ethics easier to explore
-- visualize relationships between virtues and vices
-- provide a dataset usable for research, education, and visualization
+The first stage of the project centers on the cardinal virtues and selected related vices.
+
+
+## Notes
+
+This site is also the canonical content source for future graph and spreadsheet exports.
+
+
 
 ---
 

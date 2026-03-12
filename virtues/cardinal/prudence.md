@@ -3,12 +3,23 @@ id: prudence
 label: Prudence
 type: virtue
 family: cardinal
-tags: [wisdom,decisions]
-
+tags:
+  - virtue
+  - cardinal
+  - practical-wisdom
 refs:
-  - CCC: "1807"
-  - ST: "x"
+  - aquinas
+  - catechism
+summary: "Prudence is the virtue that disposes practical reason to discern the true good and choose the right means to achieve it."
+aliases:
+  - practical wisdom
+  - right reason in action
+related:
+  - justice
+  - temperance
+  - fortitude
 ---
+
 
 # Justice
 ![Virtue](https://img.shields.io/badge/Type-Virtue-blue)

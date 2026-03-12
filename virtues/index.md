@@ -1,18 +1,39 @@
 ---
-id: virtue-definition
-label: Virtue
-type: definition
-family: no
-tags: [definition]
-
-refs:
-  - CCC: "1803, 1804"
-  - Aristotles: "Nicomachean Ethics I.7, II.6"
-  - Bible: "Phil 4:8"
-  - Father: "Gregory of Nysa, De Beatitudinibus, 1 PG 44, 1200D"
+title: Virtues
 ---
 
+# Virtues
 
+This section contains pages for the virtues in the Christian moral tradition.
+
+## Structure
+
+Virtues are grouped into families such as:
+
+- Cardinal virtues
+- Theological virtues
+- Integral parts
+- Potential parts
+- Annexed virtues
+
+## Current Content
+
+### Cardinal Virtues
+
+- [Prudence](cardinal/prudence.md)
+- [Justice](cardinal/justice.md)
+- [Temperance](cardinal/temperance.md)
+- [Fortitude](cardinal/fortitude.md)
+
+## Future Expansion
+
+Additional pages may include theological virtues and subordinate or associated virtues connected to each major family.
+
+## See Also
+
+- [Vices](../vices/)
+- [Relations](../relations/)
+- [References](../references/)
 
 # Definition
 

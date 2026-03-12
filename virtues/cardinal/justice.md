@@ -3,11 +3,21 @@ id: justice
 label: Justice
 type: virtue
 family: cardinal
-tags: [right, duty, fairness]
-
+tags:
+  - virtue
+  - cardinal
+  - tbd
 refs:
-  - CCC: "1807"
-  - ST: "II-II, q.57–122"
+  - aquinas
+  - catechism
+summary: "tbd"
+aliases:
+  - tbd
+  - tbd
+related:
+  - prudence
+  - temperance
+  - fortitude
 ---
 
 # Justice
@@ -19,6 +29,8 @@ refs:
 ## Definition
 
 ### Dictionary
+
+### Oxford Encyclopedia of the Bible and Theology [^ox]
 
 ### New Advent Encyclopedia
 

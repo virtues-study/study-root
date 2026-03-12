@@ -3,11 +3,21 @@ id: temperance
 label: Temperance
 type: virtue
 family: cardinal
-tags: [self control,abstinence]
-
+tags:
+  - virtue
+  - cardinal
+  - tbd
 refs:
-  - CCC: "377, 1809, 2290"
-  - ST: "x"
+  - aquinas
+  - catechism
+summary: "tbd"
+aliases:
+  - tbd
+  - tbd
+related:
+  - prudence
+  - justice
+  - fortitude
 ---
 
 # Justice
@@ -19,6 +29,8 @@ refs:
 ## Definition
 
 ### Dictionary
+
+### 
 
 ### New Advent Encyclopedia
 
