@@ -2,9 +2,6 @@
 title: Virtues Map
 ---
 
-x*
-
-
 A structured map of virtues, vices, and their relationships in the Christian moral tradition.
 
 The project draws primarily from the **Aristotelian and Thomistic tradition**, especially the framework of the **cardinal virtues** and their related moral qualities.
@@ -43,11 +40,11 @@ Virtues are stable dispositions that perfect human action and guide moral decisi
 - [Fortitude](virtues/cardinal/fortitude.md)
 
 
-### Theological
+### [Theological Virtues][virtues/theological/]
 
-- Charity
-- Faith
-- Hope
+- [Charity](virtues/theological/charity.md)
+- [Faith](virtues/theological/faith.md)
+- [Hope](virtues/theological/hope.md)
 
 
 ---
@@ -56,7 +53,18 @@ Virtues are stable dispositions that perfect human action and guide moral decisi
 
 Vices are distortions or failures of virtue.
 
-### [Capital Vices](./vices/capital/)
+### [Capital Vices](vices/capital/)
+Also know as the seven capital sins.
+
+- [Pride](vices/capital/pride.md)
+- [Anger](vices/capital/anger.md)
+- [Envy](vices/capital/envy.md)
+- [Gluttony](vices/capital/gluttony.md)
+- [Greed](vices/capital/greed.md)
+- [Lust](vices/capital/lust.md)
+- [Sloth](vices/capital/sloth.md)
+
+### [Opposed Vices](vices/opposed/)
 
 - [Imprudence](vices/opposed/imprudence.md)
 - [Injustice](vices/opposed/injustice.md)
@@ -77,7 +85,7 @@ Virtues and vices are connected by structured relationships such as:
 - `defect_of`
 - `excess_of`
 
-These relationships form a **graph of moral concepts**.
+These relationships form a **graph of moral concepts**. This graph can be found [here](https://kumu.io/carlosrarias/virtues-map#virtues-and-vices).
 
 
 ## References
@@ -88,9 +96,7 @@ The project includes references from important sources including:
 - The Catechism of the Catholic Church
 - St. Thomas Aquinas
 
-➡ Browse references:
-
-- [References](./references/)
+➡ Browse [references](./references/)
 
 
 

@@ -1,27 +1,22 @@
 ---
-title: Relations
+title: References
 ---
 
-# Relations
+# References
 
-This section documents the types of relationships used in the Virtues Map.
+This page lists the works that were used to build this framework. The works are not listed in any particular order.
 
-## Relation Types
+1. [Merriam-Webster Dictionary](https://merriam-webster.com/)
+2. The Oxford Encyclopedia of the Bible and Theology
+3. Northwest Catholic Magazine
+4. Holy Family School of Faith meditations by Michael Scherschligt et. al.
+5. Victory over Vice by Blessed Bishop Fulton Sheen
+6. [The Catholic Encyclopedia](https://www.newadvent.org/)
+7. Politico
+8. The Bible, NABRE translation
+9. The Catechism of the Catholic Church
+10. Summa Theologica by Saint Thomas Aquinas
+11. Nicomachean Ethics by Aristotle
 
-- [Opposes](opposes.md)
-- [Perfects](perfects.md)
-- [Requires](requires.md)
-- [Supports](supports.md)
-- [Distorts](distorts.md)
-- [Defect Of](defect_of.md)
-- [Excess Of](excess_of.md)
-- [Ordered To](ordered_to.md)
-- [Flows From](flows_from.md)
 
-## Purpose
-
-These relation pages describe how nodes in the graph are connected conceptually and structurally.
-
-## Notes
-
-The canonical graph edges are stored in CSV files, while these pages describe the meaning of each relationship.
+The technical infraestructure was made with the help of ChatGPT.

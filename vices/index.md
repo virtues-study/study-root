@@ -12,17 +12,33 @@ Vices may be grouped in ways such as:
 
 - Capital vices
 - Opposed vices
-- Defects
-- Excesses
 
-## Current Content
 
-### Opposed Vices
 
-- [Imprudence](opposed/imprudence.md)
-- [Injustice](opposed/injustice.md)
-- [Intemperance](opposed/intemperance.md)
-- [Cowardice](opposed/cowardice.md)
+## Classification
+
+Vices are distortions or failures of virtue.
+
+### [Capital Vices](vices/capital/)
+Also know as the seven capital sins.
+
+- [Pride](vices/capital/pride.md)
+- [Anger](vices/capital/anger.md)
+- [Envy](vices/capital/envy.md)
+- [Gluttony](vices/capital/gluttony.md)
+- [Greed](vices/capital/greed.md)
+- [Lust](vices/capital/lust.md)
+- [Sloth](vices/capital/sloth.md)
+
+### [Opposed Vices](vices/opposed/)
+
+- [Imprudence](vices/opposed/imprudence.md)
+- [Injustice](vices/opposed/injustice.md)
+- [Intemperance](vices/opposed/intemperance.md)
+- [Cowardice](vices/opposed/cowardice.md)
+
+
+
 
 ## See Also
 
