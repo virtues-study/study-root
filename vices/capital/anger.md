@@ -7,10 +7,11 @@ tags: [wrath]
 
 refs:
   - CCC: "2302"
-  - ST: "x"
+  - HFSoF: [anger, meekness]
+  - Authors: [Aquinas, Fulton Sheen]
 ---
 
-# Justice
+# Anger
 ![Vice](https://img.shields.io/badge/Type-Vice-red)
 ![Capital](https://img.shields.io/badge/Family-Capital-black)
 
@@ -43,9 +44,14 @@ Anger is a desire for revenge. "To desire vengeance in order to do evil to someo
   * The cause is just
   * It is not greater than what the cause demands
   * It is quickly subdued
-* Therefore, there is Sinful Anger and Just Anger.
-* “... anger is based upon reason, which weighs the injury done to satisfaction to be demanded.” [^vov]
+* Therefore, there is Sinful Anger and Just Anger. This in accordance to Thomas Aquinas view of righteous anger and sinful anger.
+* “... anger is based upon reason, which weighs the injury done to satisfaction to be demanded.” 
+* Blessed Fulton Sheen associates the vice of anger with Jesus word: "Father, forgive them for they know not what they do." (Lk 23:34) This is the reason for which he says that we need to recognize that people do us wrong due to their ignorance, and we, followers of Jesus, need to forgive them because "know not what they do."
+[^vov]
 
+### Thomas Aquinas
+In his work "Commentary on the Nicomachean Ethics," he describes anger as a desire for vengeance. Moreover he establishes that anger is an opposing vice to meekness. As Blessed Fulton expressed above, (and probably based on Aquinas), there is sinful and righteous anger. When the anger is oriented toward vengeance it becomes sinful.
+[^ta]
 
 ### Magisterium AI
 
@@ -68,6 +74,27 @@ VoV conditions for anger not to be sinful recall the conditions for just war. (S
 
 ## Examples
 
+Being angry in itself is not vicious. It becomes a vice if it breeds inside the human heart and grows its desires into the thoughts and actions of the person.
+
+A very regular example of being angry is when a person is driving and another person cuts them off. All sorts of emotions boil in the heart, and if one let's one's guard dawm, it can produce verbal and physical insults toward the other driver, and in some cases produce road rage. From the moment, that one let's the emotion boil and consents to the desire for 'revenge' the emotion becomes vicious. The alternative is meekness. Meekness "is the calm strength that harnesses the power of anger and directs it to good." [^hsof_meek] Also, John Chrisostom says it is avoiding or restraining passionae impulses when provoked. [^jc]
+
+When a person feels like there is an injustice being force into them, the default response is to get angry. One possible situation is the employee who feels she is being underpaid. This angry can tack hold of her soul and start producing sinful fruits in the form of negligence, gossip, unfair comments, etc. There are many situations that might have led to the position of being underpaid, but the fact remains, one needs to keep oneself soul pure of sin. Patience and meekness would be two virtues that can be cultivated. One to harness the power of anger in the face of injustice to take just action, the other to endure the situation until it can be resolved by humility, a raise, or getting another job depending the specific circumstances.
+
+Notice is this last example, that the feeling that an injustice was happening was not vicious in itself. It was the emotions and consequent actions that brew to take "matters" into our own hands. Also, it is with opposite, or related virtues, that we attack the seed of the vice. In Catholic tradition we have an additional aid, that we receive through frequent confession and Eucharist.
+
+## A Prayer
+```text
+Let nothing trouble you
+Let nothing frighten you
+Everything passes
+God never changes
+Patience obtains all
+Whoever has God
+Wants for nothing
+God alone is enough.
+
+St. Teresa of Jesus
+```
 ---
 [^ccc2302]: “Part Three Section Two The Ten Commandments Chapter Two You Shall Love Your Neighbor As Yourself Article 5 The Fifth Commandment III. Safeguarding Peace,” n.d. https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_5/iii_safeguarding_peace.html.
 
@@ -76,3 +103,7 @@ VoV conditions for anger not to be sinful recall the conditions for just war. (S
 [^mw]: “Definition of Anger,” 12 October 2025, https://www.merriam-webster.com/dictionary/anger.
 [^hfsof]: Mike Scherschligt, “Anger,” School of Faith, n.d., https://schooloffaith.com/rosary-archive/anger-1.
 [^nae]: “CATHOLIC ENCYCLOPEDIA: Anger,” n.d. https://www.newadvent.org/cathen/01489a.htm.
+[^hfsof_meek]: Mike Scherschligt, “Meekness.” School of Faith, n.d. https://schooloffaith.com/rosary-archive/meekness.
+[^jc]: Liguori, Alphonsus. The Dignity and Duties of the Priest. Benziger Brothers, 1888. (https://archive.org/details/alphonsusworks12liguuoft/page/n335/mode/2up)
+[^ta]: Thomas Aquinas, Commentary on the Nicomachean Ethics, bk. 4, lect. 1, no. 805.
+
