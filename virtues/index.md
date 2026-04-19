@@ -4,39 +4,9 @@ title: Virtues
 
 # Virtues
 
-This section contains pages for the virtues in the Christian moral tradition.
-
-## Structure
-
-Virtues are grouped into families such as:
-
-- Cardinal virtues
-- Theological virtues
-- Integral parts
-- Potential parts
-- Annexed virtues
-
-## Current Content
-
-### Cardinal Virtues
-
-- [Prudence](cardinal/prudence.md)
-- [Justice](cardinal/justice.md)
-- [Temperance](cardinal/temperance.md)
-- [Fortitude](cardinal/fortitude.md)
-
-## Future Expansion
-
-Additional pages may include theological virtues and subordinate or associated virtues connected to each major family.
-
-## See Also
-
-- [Vices](../vices/)
-- [Relations](../relations/)
-- [References](../references/)
+This section includes a brief discussion about virtue and contains pages for the virtues in the Christian moral tradition.
 
 # Definition
-
 
 ## Catechism of the Catholic Church
 
@@ -50,10 +20,6 @@ The goal of a virtuous life is to become like God. [^2]
 
 The moral virtues are acquired by human effort. They are the fruit and seed of morally good acts; they dispose all the powers of the human being for communion with divine love.
 
-[^1]: Phil. 4:8
-[^2]: St. Gregory of Nysa, De Beatitudinibus, 1: PG 44, 1200D
-
-:page_with_curl: :scroll: :book:
 
 > What is good? Good is everything that fulfills its purpose.
 
@@ -66,39 +32,105 @@ The moral virtues are acquired by human effort. They are the fruit and seed of m
 
 "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determinend by a rational principle, and by the principle which the man of practical wisdom would determine it. Now it is a mean between two vices, that which depends on excess and that which depends on defect [...] virtue both finds and chooses that which is intermediate." [^4]
 
+
+# Structure
+
+Virtues are grouped into families such as:
+
+- Cardinal virtues
+- Theological virtues
+- Fruits of the Spirit
+- Gifts of the Spirit
+- Other Virtues
+- Related Virtues
+
+## Virtues Organization
+
+### Cardinal Virtues
+
+- [Prudence](cardinal/prudence.md)
+- [Justice](cardinal/justice.md)
+- [Temperance](cardinal/temperance.md)
+- [Fortitude](cardinal/fortitude.md)
+
+### Theological Virtues
+
+- [Faith](theological/faith.md)
+- [Hope](theological/hope.md)
+- [Love](theological/charity.md)
+
+### Fruits of the Spirit
+
+Although not virtues per-se these are closely associated with virtue. The fruits of the Spirit "are virtues acts which the person performs with ease, habitually, and with delight." [^jp2] Virtues require effort to become a habit, the fruits are an expression of the Holy Sporit of a virtuous life.
+
+- [Faithfulness](fruits-of-the-spirit/faithfulness.md)
+- [Gentleness](fruits-of-the-spirit/gentleness.md)
+- [Goodness](fruits-of-the-spirit/goodness.md)
+- [Joy](fruits-of-the-spirit/joy.md)
+- [Kindness](fruits-of-the-spirit/kindness.md)
+- [Love](fruits-of-the-spirit/love.md)
+- [Patience](fruits-of-the-spirit/patience.md)
+- [Peace](fruits-of-the-spirit/peace.md)
+- [Self-Control](fruits-of-the-spirit/self-control.md)
+
+### Gifts of the Spirit
+
+Not virtues but closely related to virtue which is why they are included. Gifts of the Spirit are permanent dispositions and are meant to complete and perfect the virtues. They help the person flexible to divine inspiration. [^jp22]
+
+- [Counsel](gifts-of-the-spirit/counsel.md)
+- [Fear of the Lord](gifts-of-the-spirit/fear-of-the-lord.md)
+- [Fortitude](gifts-of-the-spirit/fortitude.md)
+- [Knowledge](gifts-of-the-spirit/knowledge.md)
+- [Piety](gifts-of-the-spirit/piety.md)
+- [Understanding](gifts-of-the-spirit/understanding.md)
+- [Wisdom](gifts-of-the-spirit/wisdom.md)
+
+### Other Virtues
+- [Participation](other/participation.md)
+- [Solidarity](other/solidarity.md)
+- [Subsidiarity](other/subsidiarity.md)
+
+### Some Related Virtues
+
+[Meekness](related/meekness)
+[Memory](related/memory)
+[Modesty or decorum](related/modesty-decorum)
+[Obedience](related/obedience)
+[Observance](related/observance)
+[Patience](related/patience)
+[Perseverance](related/perseverance)
+[Piety](related/piety)
+[Reason](related/reason)
+[Religion](related/religion)
+[Shrewdness](related/shrewdness)
+[Sobriety](related/sobriety)
+[Studiousness](related/studiousness)
+[Truthfulness](related/truthfulness)
+[Vindication or Just Retribution](related/vindication-just-retribution)
+
+
+
+
+
+
+
+## See Also
+
+- [Vices](../vices/)
+- [Relations](../relations/)
+- [References](../references/)
+
+
+[^1]: Phil. 4:8
+[^2]: St. Gregory of Nysa, De Beatitudinibus, 1: PG 44, 1200D
 [^3]: Nicomachean Ethics I.7
 [^4]: Nicomachean Ethics II.6
+[^jp2]: Pope John Paul II. “General Audience,” 20 October 1999.
+[^jp22]: Pope John Paul II. “Letter to Priests,” 1998.
+
+
+
 
 ## Notes
 At some point we need to add to this the discussion between infused, acquired, theological, and natural virtues.
-
-
----
-title: Virtues
----
-
-# Virtues
-
-## Theological Virtues
-- [Charity](./theological/charity.md)
-- [Faith](./theological/faith.md)
-- [Hope](./theological/hope.md)
-
-## Cardinal Virtues
-- [Prudence](./cardinal/prudence.html)
-- [Justice](./cardinal/justice.html)
-- [Fortitude](./cardinal/fortitude.html)
-- [Temperance](./cardinal/temperance.html)
-
-## From the Fruits of the Spirit
-**TODO**
-
-## From the Gifts of the Spirit
-**TODO**
-
-## Related Virtues
-**TODO**
-
-## Other
-**TODO**
 
