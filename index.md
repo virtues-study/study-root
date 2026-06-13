@@ -40,7 +40,7 @@ Virtues are stable dispositions that perfect human action and guide moral decisi
 - [Fortitude](virtues/cardinal/fortitude.md)
 
 
-### [Theological Virtues][virtues/theological/]
+### [Theological Virtues](virtues/theological/)
 
 - [Charity](virtues/theological/charity.md)
 - [Faith](virtues/theological/faith.md)
