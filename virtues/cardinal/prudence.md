@@ -234,7 +234,9 @@ In terms of technology, several questions arise:
 -	Is it prudent to market this technology this way?
 -	Is it prudent to use this technology?
 -	How much and how is it prudent to use this technology?
+
 To be able to answer these questions, it is necessary to have minimal but enough information about the technology and a reasonable amount of moral training.
+
 Instagram.
 “Instagram is a social media platform designed for sharing photos, videos, and stories with other users.” 
 Initially, one might think that the technology was built to keep people in touch through their photos, videos, and stories. So, the intention to build this could have been morally correct. Now, I wonder, is this the way it is being used? Is it prudent for me to use this technology? To answer that question, I need to truly see into myself and answer the question, What do I want to use Instagram for? Is it to communicate? Is it to see what other people (potentially unknown) are up to? Is it to fuel my political beliefs? Is it just to spend hours in useless scrolling? Is it to numb my mind? Being honest about this could lead to potentially not using Instagram, or to limiting the network to people that the person actually knows and desires to follow. Gather all the pertinent and available information, and then discern from it what is the best moral course of action.
