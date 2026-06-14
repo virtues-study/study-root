@@ -177,11 +177,16 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 ### Comparison
 | Tradition | Definition Emphasis| Role of Prudence |
 | --------- | ------------------- | ---------------- |
-| Catholic [^1] (Aquinas[^st]) | Right reason in action | Governs all virtues |
-| Lutheran [^temporal] | Wisdom within vocation | Practical application of faith | 
-| Calvinist [^boc] | Discernment of God’s will | Application of Scripture |
-| Methodist [^wcm] | Wisdom in holy living | Guides sanctification |
+| Catholic (Aquinas) | Right reason in action | Governs all virtues |
+| Lutheran  | Wisdom within vocation | Practical application of faith | 
+| Calvinist | Discernment of God’s will | Application of Scripture |
+| Methodist | Wisdom in holy living | Guides sanctification |
 
+**Sources:**
+- Catholic: [^1] [^st]
+- Lutheran: [^temporal]
+- Calvinist: [^boc]
+- Methodist: [^wcm]
 
 ### New Advent Encyclopedia
 “One of the four cardinal virtues. Definitions of it are plentiful from Aristotle down. His "recta ratio agibilium" has the merits of brevity and inclusiveness. Father Rickaby aptly renders it as "right reason applied to practice". A fuller description and one more serviceable is this: an intellectual habit enabling us to see in any given juncture of human affairs what is virtuous and what is not, and how to come at the one and avoid the other. It is to be observed that prudence, whilst possessing in some sort an empire over all the moral virtues, itself aims to perfect not the will but the intellect in its practical decisions. Its function is to point out which course of action is to be taken in any round of concrete circumstances. It indicates which, here and now, is the golden mean wherein the essence of all virtue lies. It has nothing to do with directly willing the good it discerns. That is done by the particular moral virtue within whose province it falls. Prudence, therefore, has a directive capacity with regard to the other virtues. It lights the way and measures the arena for their exercise. The insight it confers makes one distinguish successfully between their mere semblance and their reality. It must preside over the eliciting of all acts proper to any one of them at least if they be taken in their formal sense. Thus, without prudence bravery becomes foolhardiness; mercy sinks into weakness, and temperance into fanaticism. But it must not be forgotten that prudence is a virtue adequately distinct from the others, and not simply a condition attendant upon their operation. Its office is to determine for each in practice those circumstances of time, place, manner, etc. which should be observed, and which the Scholastics comprise under the term medium rationis. So it is that whilst it qualifies immediately the intellect and not the will, it is nevertheless rightly styled a moral virtue.” [^nae]
