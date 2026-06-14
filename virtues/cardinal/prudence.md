@@ -49,8 +49,9 @@ A Christian uses prudence to determine:
 But prudence is subordinate to faith and does not justify.
 
 #### Contrast with Aquinas
+
 | Topic | Thomas Aquinas | Classical Lutheranism |
-|---------|---------|---------|
+| --------- | --------- | --------- |
 | **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is generally understood as practical wisdom and sound judgment in earthly affairs, exercised through reason, vocation, and conscience under God's Word. |
 | **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is valuable but does not occupy the central organizing role found in Thomistic ethics. Faith, vocation, and the Word of God are more fundamental categories. |
 | **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. | Scripture is the supreme authority. Natural reason retains significant usefulness in temporal affairs, though it cannot lead to saving faith. |
@@ -71,7 +72,7 @@ ChatGPT Sources:
 1. The Book of Concord [^boc]
     * Apology of the Augsburg Confession, Articles IV and XVIII.
     * Formula of Concord, Articles II and VI.  
-2. Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523)
+2. Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523) [^temporal]
 
 
 ### Calvinism (Need ref.)
@@ -97,7 +98,7 @@ faith → regeneration → disciplined Christian life.
 
 Many people assume that Calvin simply rejected virtue ethics. Modern scholarship has shown that this is not quite true. Calvin was much more comfortable retaining elements of the classical virtue tradition than many later Protestants were. In fact, some recent scholars argue that Calvin belongs within the broader Christian virtue tradition, albeit in a distinctly Reformed form. [^sytsma]
 
-| Topic | Thomas Aquinas | Classical Calvinism [^institutes][^westmin] |
+| Topic | Thomas Aquinas | Classical Calvinism [^institutes],[^westmin] |
 |---------|---------|---------|
 | **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is genuine practical wisdom and sound judgment, but is understood within the broader framework of God's providence, Scripture, and sanctification. |
 | **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is an important virtue but does not occupy the architectonic role it has in Aquinas. Faith and obedience to God's Word are primary. |
@@ -225,3 +226,5 @@ Initially, one might think that the technology was built to keep people in touch
 [^institutes]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html)
 
 [^westmin]: [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
+[^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962.
+[Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
