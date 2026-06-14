@@ -176,11 +176,11 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 
 ### Comparison
 | Tradition | Definition Emphasis| Role of Prudence |
-| ---------| ------------------- | ---------------- |
-| Catholic [^1] (Aquinas[^st]) |Right reason in action | Governs all virtues |
+| --------- | ------------------- | ---------------- |
+| Catholic [^1] (Aquinas[^st]) | Right reason in action | Governs all virtues |
 | Lutheran [^temporal] | Wisdom within vocation | Practical application of faith | 
 | Calvinist [^boc] | Discernment of God’s will | Application of Scripture |
-| Methodist [^wcm]| Wisdom in holy living | Guides sanctification |
+| Methodist [^wcm] | Wisdom in holy living | Guides sanctification |
 
 
 ### New Advent Encyclopedia
