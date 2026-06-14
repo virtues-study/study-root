@@ -145,6 +145,7 @@ Prudence helps Christians:
 
 #### Contrast with Aquinas
 
+
 | Topic | Thomas Aquinas | Classical Methodism (John Wesley) |
 | --------- | --------- | --------- |
 | **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is practical Christian wisdom that helps believers apply God's will faithfully in daily life. Wesley frequently treated prudence as a genuine Christian virtue but not as the supreme organizing virtue. |
