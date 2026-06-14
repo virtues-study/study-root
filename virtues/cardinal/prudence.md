@@ -182,16 +182,10 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 | Calvinist [^boc] | Discernment of God’s will | Application of Scripture |
 | Methodist [^wcm]| Wisdom in holy living | Guides sanctification |
 
-References
-- Catholic: CCC 1806; Aquinas ST II-II q.47
-- Lutheran: Augsburg Confession VI
-- Reformed: Calvin Institutes III.6
-- Methodist: Wesley Character of a Methodist
-
-
 
 ### New Advent Encyclopedia
 “One of the four cardinal virtues. Definitions of it are plentiful from Aristotle down. His "recta ratio agibilium" has the merits of brevity and inclusiveness. Father Rickaby aptly renders it as "right reason applied to practice". A fuller description and one more serviceable is this: an intellectual habit enabling us to see in any given juncture of human affairs what is virtuous and what is not, and how to come at the one and avoid the other. It is to be observed that prudence, whilst possessing in some sort an empire over all the moral virtues, itself aims to perfect not the will but the intellect in its practical decisions. Its function is to point out which course of action is to be taken in any round of concrete circumstances. It indicates which, here and now, is the golden mean wherein the essence of all virtue lies. It has nothing to do with directly willing the good it discerns. That is done by the particular moral virtue within whose province it falls. Prudence, therefore, has a directive capacity with regard to the other virtues. It lights the way and measures the arena for their exercise. The insight it confers makes one distinguish successfully between their mere semblance and their reality. It must preside over the eliciting of all acts proper to any one of them at least if they be taken in their formal sense. Thus, without prudence bravery becomes foolhardiness; mercy sinks into weakness, and temperance into fanaticism. But it must not be forgotten that prudence is a virtue adequately distinct from the others, and not simply a condition attendant upon their operation. Its office is to determine for each in practice those circumstances of time, place, manner, etc. which should be observed, and which the Scholastics comprise under the term medium rationis. So it is that whilst it qualifies immediately the intellect and not the will, it is nevertheless rightly styled a moral virtue.” [^nae]
+
 ### Catechism of the Catholic Church
 
 #### CCC 1806
@@ -211,10 +205,30 @@ Prudence is the virtue that disposes practical reason to discern our true good i
 
 Prudence is one of the four cardinal virtues, defined as right reason applied to practice. It is an intellectual habit that enables a person to discern what is virtuous in any situation and how to pursue it. Unlike other moral virtues that perfect the will, prudence perfects the intellect in making practical decisions. It guides and measures the exercise of all other virtues, ensuring they are practiced rightly—without prudence, courage becomes recklessness, mercy becomes weakness, and temperance becomes fanaticism. Though it directs other virtues, prudence remains distinct, determining the proper time, place, and manner for moral actions, and is therefore rightly called a moral virtue itself.
 
-### HFSoF
-> Steps of prudence explained
+### Holy Family School of Faith [^hfsof1], [^hfsof2], [^hfsof3]
+The Holy Family School of Faith (HFSoF), based in Aquinas Summa Theologica, define prudence as follows:
+""
 
-### Other Sources
+Furthermore, proposes the following steps to a prudent action:
+1. Think (Deliberation). Consider the different alternatives for your choice of action.
+2. Make a choice (Judgment). From the diferent alternatives select one that is objectively good and helps you achieve your goal.
+3. Take action (Execution). Execute your choice.
+
+Several vices are associated with the virtue of prudence and its different steps.
+1. When thinking you might be tempted to be rash, and move to the second step without thinking.
+2. When making a choice you might be tempted to be rash aswell, and move the the third step without making an appropriate judgment of the possible alternatives. On the other side, you might get "stuck" in step two in a situation colloquialy called "paralysis by analysis," or over-deliveration; thinking to much about what choice to make without making up your mind.
+3. When taking action you might be tempted to procrastinate, in other words to not diligently start executing your selected action. Procrastination is related to the vice of negligence. On the other side, you might start but not finish. This is known as the vice of inconstancy.
+
+In summary, bad habits and vices related to the virtue of prudence are:
+* Rashness
+* Over-deliveration
+* Negligence
+* Inconstancy
+
+In terms of Thomistic morals we can say that the two opposing vices to prudence are:
+* Defect: Rashness
+* Excess: Over caution/indecision
+
 
 ## Ideas
 
@@ -256,3 +270,7 @@ Initially, one might think that the technology was built to keep people in touch
 [^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962.
 [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
 [^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
+
+[^hfsof1]: [The Three Steps to Prudence](https://schooloffaith.com/rosary-archive/three-steps-to-prudence)
+[^hfsof2]: [Prudence Conscience and Compassion](https://schooloffaith.com/rosary-archive/prudence-conscience-and-compassion)
+[^hfsof3]: [Prudence](https://schooloffaith.com/rosary-archive/prudence)

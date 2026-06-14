@@ -36,6 +36,7 @@ Also know as the seven capital sins.
 - [Injustice](opposed/injustice.md)
 - [Intemperance](opposed/intemperance.md)
 - [Cowardice](opposed/cowardice.md)
+- [Negligence](opposed/negligence.md) - TODO -
 
 
 
