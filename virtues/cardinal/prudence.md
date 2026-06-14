@@ -175,10 +175,11 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
   * Sermon 40: Christian Perfection
 
 ### Comparison
-| Tradition | Definition Emphasis| Role of Prudence |
+
+| Tradition | Definition Emphasis | Role of Prudence |
 | --------- | ------------------- | ---------------- |
 | Catholic (Aquinas) | Right reason in action | Governs all virtues |
-| Lutheran  | Wisdom within vocation | Practical application of faith | 
+| Lutheran | Wisdom within vocation | Practical application of faith |
 | Calvinist | Discernment of God’s will | Application of Scripture |
 | Methodist | Wisdom in holy living | Guides sanctification |
 
