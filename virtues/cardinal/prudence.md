@@ -178,7 +178,7 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 | Tradition | Definition Emphasis| Role of Prudence |
 | ---------| ------------------- | ---------------- |
 | Catholic [^1] (Aquinas[^st]) |Right reason in action | Governs all virtues |
-| Lutheran [^] | Wisdom within vocation | Practical application of faith | 
+| Lutheran [^temporal] | Wisdom within vocation | Practical application of faith | 
 | Calvinist [^boc] | Discernment of God’s will | Application of Scripture |
 | Methodist [^wcm]| Wisdom in holy living | Guides sanctification |
 
@@ -260,7 +260,7 @@ Initially, one might think that the technology was built to keep people in touch
 [^nae]: [New Advent Encyclopedia: Prudence](https://www.newadvent.org/cathen/12517b.htm)
 [^st]: Summa Theologiae II–II, Questions 47–56
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
-[^sytsma]:Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
+[^sytsma]: Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
 [^calvinism]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html), [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
 [^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962. [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
 [^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
