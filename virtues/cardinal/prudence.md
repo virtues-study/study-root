@@ -99,7 +99,7 @@ Many people assume that Calvin simply rejected virtue ethics. Modern scholarship
 #### Contrast with Aquinas
 
 
-| Topic | Thomas Aquinas | Classical Calvinism [^institutes],[^westmin] |
+| Topic | Thomas Aquinas | Classical Calvinism [^calvinism] |
 |---------|---------|---------|
 | **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is genuine practical wisdom and sound judgment, but is understood within the broader framework of God's providence, Scripture, and sanctification. |
 | **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is an important virtue but does not occupy the architectonic role it has in Aquinas. Faith and obedience to God's Word are primary. |
@@ -192,20 +192,15 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 
 Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it; "the prudent man looks where he is going." "Keep sane and sober for your prayers." Prudence is "right reason in action," writes St. Thomas Aquinas, following Aristotle. It is not to be confused with timidity or fear, nor with duplicity or dissimulation. It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure. It is prudence that immediately guides the judgment of conscience. The prudent man determines and directs his conduct in accordance with this judgment. With the help of this virtue we apply moral principles to particular cases without error and overcome doubts about the good to achieve and the evil to avoid. [^1]
 
-### Summa Theologiae [^st]
-
-
-### Victory over Vice
-
-
-
 ### Magisterium AI
+
+The catechism presents prudence as the “right reason in action,” the first of the four cardinal virtues that orders the whole moral life and guides the other virtues.
 
 ### ChatGPT
 
 Prudence is one of the four cardinal virtues, defined as right reason applied to practice. It is an intellectual habit that enables a person to discern what is virtuous in any situation and how to pursue it. Unlike other moral virtues that perfect the will, prudence perfects the intellect in making practical decisions. It guides and measures the exercise of all other virtues, ensuring they are practiced rightly—without prudence, courage becomes recklessness, mercy becomes weakness, and temperance becomes fanaticism. Though it directs other virtues, prudence remains distinct, determining the proper time, place, and manner for moral actions, and is therefore rightly called a moral virtue itself.
 
-### Holy Family School of Faith [^hfsof1], [^hfsof2], [^hfsof3]
+### Holy Family School of Faith [^hfsof]
 The Holy Family School of Faith (HFSoF), based in Aquinas Summa Theologica, define prudence as follows:
 ""
 
@@ -264,13 +259,8 @@ Initially, one might think that the technology was built to keep people in touch
 [^st]: Summa Theologiae II–II, Questions 47–56
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
 [^sytsma]:Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
-[^institutes]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html)
-
-[^westmin]: [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
-[^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962.
-[Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
+[^calvinism]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html), [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
+[^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962. [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
 [^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
 
-[^hfsof1]: [The Three Steps to Prudence](https://schooloffaith.com/rosary-archive/three-steps-to-prudence)
-[^hfsof2]: [Prudence Conscience and Compassion](https://schooloffaith.com/rosary-archive/prudence-conscience-and-compassion)
-[^hfsof3]: [Prudence](https://schooloffaith.com/rosary-archive/prudence)
+[^hfsof]: [The Three Steps to Prudence](https://schooloffaith.com/rosary-archive/three-steps-to-prudence), [Prudence Conscience and Compassion](https://schooloffaith.com/rosary-archive/prudence-conscience-and-compassion), [Prudence](https://schooloffaith.com/rosary-archive/prudence)
