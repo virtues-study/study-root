@@ -37,7 +37,7 @@ related:
 * Skill and good judgment in the use of resources
 * Caution of circumspection as to danger or risk
 
-### Lutheranism (Check Ref ref.)
+### Lutheranism (Check References)
 Prudence is generally understood as practical wisdom in applying God’s law to life, guided by Scripture and the conscience formed by faith. Prudence therefore becomes discernment within one’s vocation rather than a central virtue structuring moral life.
 
 Example idea in Lutheran thought
@@ -75,7 +75,7 @@ ChatGPT Sources:
 2. Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523) [^temporal]
 
 
-### Calvinism (Need ref.)
+### Calvinism (Check References)
 
 Prudence is often described as spiritual wisdom that discerns God’s will through Scripture and applies it to practical life.
 
@@ -90,13 +90,14 @@ Prudence helps believers:
 - order life in a disciplined manner
 -	avoid moral error.
 
-However, virtue language is again secondary to covenant obedience.
-
 The focus is:
 
 faith → regeneration → disciplined Christian life.
 
 Many people assume that Calvin simply rejected virtue ethics. Modern scholarship has shown that this is not quite true. Calvin was much more comfortable retaining elements of the classical virtue tradition than many later Protestants were. In fact, some recent scholars argue that Calvin belongs within the broader Christian virtue tradition, albeit in a distinctly Reformed form. [^sytsma]
+
+#### Contrast with Aquinas
+
 
 | Topic | Thomas Aquinas | Classical Calvinism [^institutes],[^westmin] |
 |---------|---------|---------|
@@ -115,11 +116,11 @@ Many people assume that Calvin simply rejected virtue ethics. Modern scholarship
 | **Representative Texts** | *Summa Theologiae* II-II, qq. 47–56 | *Institutes of the Christian Religion* II.2–3 |
 | **Representative Modern Scholar** | Jean Porter, Servais Pinckaers, Romanus Cessario | David Sytsma, Paul Helm, John Witte Jr. |
 
-Check: John Calvin — Institutes of the Christian Religion Book III, Chapter 6: “The Life of a Christian Man”, Book II, Chapters 2-3 (Especially II.2.12–18 and II.3.3–4 on reason, civic virtue, and common grace.)
-Check: Westminster Confession of Faith Chapter XX: Of Christian Liberty and Liberty of Conscience
+* Check: John Calvin — Institutes of the Christian Religion Book III, Chapter 6: “The Life of a Christian Man”, Book II, Chapters 2-3 (Especially II.2.12–18 and II.3.3–4 on reason, civic virtue, and common grace.)
+* Check: Westminster Confession of Faith Chapter XX: Of Christian Liberty and Liberty of Conscience
 
 
-### Methodism
+### Methodism (Check References)
 
 Prudence is the virtue that guides believers in applying Christian love wisely in daily life.
 
@@ -142,18 +143,43 @@ Prudence helps Christians:
 - grow in sanctification.
 
 
+#### Contrast with Aquinas
 
+| Topic | Thomas Aquinas | Classical Methodism (John Wesley) |
+| --------- | --------- | --------- |
+| **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is practical Christian wisdom that helps believers apply God's will faithfully in daily life. Wesley frequently treated prudence as a genuine Christian virtue but not as the supreme organizing virtue. |
+| **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence guides the practical application of holiness and love but is subordinate to love (*charity*) as the central Christian virtue. |
+| **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. | Scripture is primary, interpreted through reason, experience, and tradition (often called the Wesleyan Quadrilateral). |
+| **Human Reason After the Fall** | Reason is wounded but retains substantial capacity to know moral truth. | Reason is damaged by sin but restored and aided by prevenient grace. |
+| **Prudence in Unbelievers** | Unbelievers can possess natural prudence, though imperfectly. | Unbelievers may possess prudence and moral insight through prevenient grace, which operates in all people. |
+| **Relationship to Grace** | Grace perfects and elevates prudence, producing supernatural prudence ordered to God. | Grace heals and transforms the believer, enabling prudence to function in service of holiness and love. |
+| **Relationship to Virtue Ethics** | Prudence is central to a comprehensive virtue ethics framework. | Virtues are important, but Methodism organizes ethics primarily around holiness, sanctification, and perfect love. |
+| **Highest Principle of Moral Action** | Prudence directs action toward the good in accordance with reason and ultimately God. | Love of God and neighbor is the governing principle of Christian life. |
+| **Primary Ethical Question** | "What does right reason require in this situation?" | "What course of action most faithfully expresses holy love?" |
+| **Civil Society** | Prudence is necessary for good governance, law, and social order. | Prudence is necessary for responsible discipleship, stewardship, ministry, and social reform. |
+| **Orientation of Virtue** | Virtues are perfected when ordered toward God as the highest good. | Virtues are perfected through sanctification and increasing conformity to Christ. |
+| **Justification and Prudence** | Prudence contributes to moral excellence but cannot itself merit salvation apart from grace. | Prudence is a fruit of Christian maturity but plays no role in earning justification, which comes by grace through faith. |
+| **Moral Framework** | Virtue → Prudence → Right Action | Grace → Sanctification → Holy Love → Prudent Action |
+| **Representative Texts** | *Summa Theologiae* II-II, qq. 47–56 | Wesley's Sermons, especially *The Circumcision of the Heart*, *The Scripture Way of Salvation*, and *On Zeal* |
+| **Representative Modern Scholar** | Jean Porter, Servais Pinckaers, Romanus Cessario | Randy Maddox, Kenneth Collins, Theodore Runyon |
 
-Check: Wesley, The Character of a Methodist (1742)
-Check: The Book of Discipline of the United Methodist Church ¶102–104: Our Theological Task
+Whereas Aquinas treats prudence as the cardinal virtue that perfects practical reason and directs the moral life, classical Methodism locates moral transformation within the work of sanctifying grace and the pursuit of holy love. Prudence remains an important Christian virtue, but it functions in service of love rather than as the governing principle of ethics.
+
+* Check: Wesley, The Character of a Methodist (1742)
+* Check: The Book of Discipline of the United Methodist Church 102–104: Our Theological Task
+* Check Sermons:
+  * Sermon 17: The Circumcision of the Heart
+  * Sermon 43: The Scripture Way of Salvation
+  * Sermon 92: On Zeal
+  * Sermon 40: Christian Perfection
 
 ### Comparison
 | Tradition | Definition Emphasis| Role of Prudence |
 | ---------| ------------------- | ---------------- |
-| Catholic (Aquinas) |Right reason in action | Governs all virtues |
-| Lutheran | Wisdom within vocation | Practical application of faith | 
-| Calvinist | Discernment of God’s will | Application of Scripture |
-| Methodist | Wisdom in holy living | Guides sanctification |
+| Catholic [^1] (Aquinas[^st]) |Right reason in action | Governs all virtues |
+| Lutheran [^] | Wisdom within vocation | Practical application of faith | 
+| Calvinist [^boc] | Discernment of God’s will | Application of Scripture |
+| Methodist [^wcm]| Wisdom in holy living | Guides sanctification |
 
 References
 - Catholic: CCC 1806; Aquinas ST II-II q.47
@@ -228,3 +254,4 @@ Initially, one might think that the technology was built to keep people in touch
 [^westmin]: [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
 [^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962.
 [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
+[^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
