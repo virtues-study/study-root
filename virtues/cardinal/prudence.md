@@ -21,7 +21,7 @@ related:
 ---
 
 
-# Justice
+# Prudence
 ![Virtue](https://img.shields.io/badge/Type-Virtue-blue)
 ![Cardinal](https://img.shields.io/badge/Family-Cardinal-maroon)
 
@@ -37,9 +37,8 @@ related:
 * Skill and good judgment in the use of resources
 * Caution of circumspection as to danger or risk
 
-### Lutheranism (Need ref.)
-Prudence is generally understood as practical wisdom in applying God’s law to life, guided by Scripture and the conscience formed by faith. 
-Prudence therefore becomes discernment within one’s vocation rather than a central virtue structuring moral life.
+### Lutheranism (Check Ref ref.)
+Prudence is generally understood as practical wisdom in applying God’s law to life, guided by Scripture and the conscience formed by faith. Prudence therefore becomes discernment within one’s vocation rather than a central virtue structuring moral life.
 
 Example idea in Lutheran thought
 
@@ -49,7 +48,31 @@ A Christian uses prudence to determine:
 
 But prudence is subordinate to faith and does not justify.
 
-Check: Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523)
+#### Contrast with Aquinas
+| Topic | Thomas Aquinas | Classical Lutheranism |
+|---------|---------|---------|
+| **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is generally understood as practical wisdom and sound judgment in earthly affairs, exercised through reason, vocation, and conscience under God's Word. |
+| **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is valuable but does not occupy the central organizing role found in Thomistic ethics. Faith, vocation, and the Word of God are more fundamental categories. |
+| **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. | Scripture is the supreme authority. Natural reason retains significant usefulness in temporal affairs, though it cannot lead to saving faith. |
+| **Human Reason After the Fall** | Reason is wounded but retains substantial capacity to know moral truth. | Reason remains capable of governing civil life and making practical judgments but is unable to know God rightly apart from the Gospel. |
+| **Prudence in Unbelievers** | Unbelievers can possess natural prudence, though imperfectly. | Unbelievers can exercise genuine prudence and wisdom in civil affairs through God's preserving activity in creation. |
+| **Relationship to Grace** | Grace perfects and elevates prudence, producing supernatural prudence ordered to God. | Grace does not primarily elevate prudence into a higher virtue but renews the whole person through faith, enabling faithful service in vocation. |
+| **Relationship to Virtue Ethics** | Prudence is central to a comprehensive virtue ethics framework. | Classical Lutheranism retains virtue language but does not organize ethics around the virtues. Law/Gospel, vocation, faith, and neighbor-love are primary. |
+| **Highest Principle of Moral Action** | Prudence directs action toward the good in accordance with reason and ultimately God. | Faith working through love in obedience to God's Word directs moral action. |
+| **Primary Ethical Question** | "What does right reason require in this situation?" | "How may I faithfully serve God and my neighbor in my vocation?" |
+| **Civil Society** | Prudence is necessary for good governance, law, and social order. | Prudence is essential for temporal government, family life, education, commerce, and civic responsibility. |
+| **Orientation of Virtue** | Virtues are perfected when ordered toward God as the highest good. | Good works and virtues flow from faith but do not contribute to justification before God. |
+| **Justification and Prudence** | Prudence contributes to moral excellence but cannot itself merit salvation apart from grace. | Prudence may be an admirable virtue, but justification is by faith alone and never by virtue. |
+| **Moral Framework** | Virtue → Prudence → Right Action | Faith → Vocation → Discernment → Loving Service of Neighbor |
+| **Representative Texts** | *Summa Theologiae* II-II, qq. 47–56 | *Apology of the Augsburg Confession* IV & XVIII; *Formula of Concord* II & VI |
+| **Representative Modern Scholar** | Jean Porter, Servais Pinckaers, Romanus Cessario | Gustaf Wingren, Oswald Bayer, Gilbert Meilaender |
+
+ChatGPT Sources:
+1. The Book of Concord [^boc]
+    * Apology of the Augsburg Confession, Articles IV and XVIII.
+    * Formula of Concord, Articles II and VI.  
+2. Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523)
+
 
 ### Calvinism (Need ref.)
 
@@ -72,8 +95,28 @@ The focus is:
 
 faith → regeneration → disciplined Christian life.
 
-Check: John Calvin — Institutes of the Christian Religion Book III, Chapter 6: “The Life of a Christian Man”
+Many people assume that Calvin simply rejected virtue ethics. Modern scholarship has shown that this is not quite true. Calvin was much more comfortable retaining elements of the classical virtue tradition than many later Protestants were. In fact, some recent scholars argue that Calvin belongs within the broader Christian virtue tradition, albeit in a distinctly Reformed form. [^sytsma]
+
+| Topic | Thomas Aquinas | Classical Calvinism [^institutes][^westmin] |
+|---------|---------|---------|
+| **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is genuine practical wisdom and sound judgment, but is understood within the broader framework of God's providence, Scripture, and sanctification. |
+| **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is an important virtue but does not occupy the architectonic role it has in Aquinas. Faith and obedience to God's Word are primary. |
+| **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. | Natural law remains, but human moral reasoning is impaired by sin. Scripture serves as the supreme norm for moral judgment. |
+| **Human Reason After the Fall** | Reason is wounded but retains substantial capacity to know moral truth. | Reason is significantly corrupted by sin, yet remains capable of civil wisdom through God's common grace. |
+| **Prudence in Unbelievers** | Unbelievers can possess natural prudence, though imperfectly. | Unbelievers can display genuine prudence and civic virtue through common grace, benefiting society. |
+| **Relationship to Grace** | Grace perfects and elevates prudence, producing supernatural prudence ordered to God. | Grace renews and sanctifies prudence, bringing it into conformity with God's will and Scripture. |
+| **Relationship to Virtue Ethics** | Prudence is central to a comprehensive virtue ethics framework. | Virtue language is retained, but ethics is organized more around covenant, law, sanctification, and union with Christ. |
+| **Highest Principle of Moral Action** | Prudence directs action toward the good in accordance with reason and ultimately God. | Obedience to God's revealed will, guided by faith and Scripture, directs moral action. |
+| **Primary Ethical Question** | "What does right reason require in this situation?" | "What does God's Word require in this situation?" |
+| **Civil Society** | Prudence is necessary for good governance, law, and social order. | Prudence is a gift of common grace that enables government, law, science, and social order. |
+| **Orientation of Virtue** | Virtues are perfected when ordered toward God as the highest good. | Virtues are truly pleasing to God only when flowing from faith and oriented toward God's glory. |
+| **Moral Framework** | Virtue → Prudence → Right Action | Faith → Scripture → Sanctified Prudence → Right Action |
+| **Representative Texts** | *Summa Theologiae* II-II, qq. 47–56 | *Institutes of the Christian Religion* II.2–3 |
+| **Representative Modern Scholar** | Jean Porter, Servais Pinckaers, Romanus Cessario | David Sytsma, Paul Helm, John Witte Jr. |
+
+Check: John Calvin — Institutes of the Christian Religion Book III, Chapter 6: “The Life of a Christian Man”, Book II, Chapters 2-3 (Especially II.2.12–18 and II.3.3–4 on reason, civic virtue, and common grace.)
 Check: Westminster Confession of Faith Chapter XX: Of Christian Liberty and Liberty of Conscience
+
 
 ### Methodism
 
@@ -96,6 +139,9 @@ Role
 Prudence helps Christians:
 - choose actions consistent with love of God and neighbor
 - grow in sanctification.
+
+
+
 
 Check: Wesley, The Character of a Methodist (1742)
 Check: The Book of Discipline of the United Methodist Church ¶102–104: Our Theological Task
@@ -174,3 +220,8 @@ Initially, one might think that the technology was built to keep people in touch
 [^1]:CCC 1806
 [^nae]: [New Advent Encyclopedia: Prudence](https://www.newadvent.org/cathen/12517b.htm)
 [^st]: Summa Theologiae II–II, Questions 47–56
+[^boc]: [Book of Concord](https://thebookofconcord.org/)
+[^sytsma]:Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
+[^institutes]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html)
+
+[^westmin]: [The Westminster Confession](https://thewestminsterstandard.org/the-westminster-confession/)
