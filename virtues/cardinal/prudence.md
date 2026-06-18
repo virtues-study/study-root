@@ -37,42 +37,62 @@ related:
 * Skill and good judgment in the use of resources
 * Caution of circumspection as to danger or risk
 
-### Lutheranism (Check References)
-Prudence is generally understood as practical wisdom in applying God’s law to life, guided by Scripture and the conscience formed by faith. Prudence therefore becomes discernment within one’s vocation rather than a central virtue structuring moral life.
+### Lutheranism
+The Lutheran tradition does not treat the virtue of prudence as a "labeled" cardinal virtue as the Catholic Church does. Indirectly, this tradition relies in fallowing the Lord's commandments, naturall and civil law, and distinguishing between what has been revealed and what requires the intervention of the Holy Spirit at the moment of decision making.
 
-Example idea in Lutheran thought
+Prudence is not explicit in the Apologies, but it can be said that Article IV stress on how to make decisions with the right confidence: confidence in Christ’s mercy, not confidence in one’s own fulfillment of the Law.
 
-A Christian uses prudence to determine:
+Apology XVIII adds another discernment rule: don’t treat all “obedience-like” behavior as if it were the same thing as the spiritual righteousness God requires.
+
+Humans have freedom for outward “civil righteousness”
+
+The Apology says the human will has liberty in choices that reason comprehends:
+
+> “The human will has liberty... It can… render civil righteousness... obey magistrates, parents;... restrain the hands from murder, from adultery...” (Ap XVIII.70)
+
+That informs “practical prudence”: you can make real outward moral choices without immediately concluding that the heart is rightly related to God.
+
+But the decisive “first-table” acts require the Holy Ghost
+Then the Apology draws a sharp line: what matters most—fear God, trust God, be confident God hears/forgives—cannot be produced by the unregenerate human heart:
+
+> “yet we do not ascribe to free will these spiritual matters, namely, truly to fear God, truly to believe God, truly to be confident...” (Ap XVIII.73)
+
+> “These are the true works of the First Table, which the heart cannot render without the Holy Ghost.” (Ap XVIII.73)
+
+So prudence (in the confessional sense) includes knowing what you cannot do by yourself—especially in times when you must decide what “spiritual progress” actually is. It prevents self-deception.
+
+A Christian uses wisdom or uprighteousness to determine:
 - how best to serve neighbor
 - how to live faithfully within one’s calling (family, work, society)
 
-But prudence is subordinate to faith and does not justify.
+But prudence is subordinate to faith and does not justify. Furthermore, the Apologies make emphasis in the right order of teaching: Law vs. promise, and faith vs. self-merit.
 
 #### Contrast with Aquinas
 
-| Topic | Thomas Aquinas | Classical Lutheranism |
+| Topic | Thomas Aquinas | Classical Lutheranism [^luther_prudence] |
 | --------- | --------- | --------- |
 | **Definition of Prudence** | Prudence is *recta ratio agibilium* ("right reason applied to action"), the virtue that enables correct practical judgment. | Prudence is generally understood as practical wisdom and sound judgment in earthly affairs, exercised through reason, vocation, and conscience under God's Word. |
 | **Role in Moral Life** | Prudence is the "charioteer of the virtues" (*auriga virtutum*), directing all other moral virtues. | Prudence is valuable but does not occupy the central organizing role found in Thomistic ethics. Faith, vocation, and the Word of God are more fundamental categories. |
-| **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. | Scripture is the supreme authority. Natural reason retains significant usefulness in temporal affairs, though it cannot lead to saving faith. |
-| **Human Reason After the Fall** | Reason is wounded but retains substantial capacity to know moral truth. | Reason remains capable of governing civil life and making practical judgments but is unable to know God rightly apart from the Gospel. |
+| **Source of Moral Knowledge** | Natural law and practical reason provide genuine moral knowledge, perfected by grace. ST I-II Q94, II-II Q47, I Q1 | Scripture is the supreme authority. Natural reason retains significant usefulness in temporal affairs, though it cannot lead to saving faith. |
+| **Human Reason After the Fall** | Reason is wounded but retains substantial capacity to know moral truth. ST I-II Q85, Q94, 109; ST I Q79; ST II-II Q47| Reason remains capable of governing civil life and making practical judgments but is unable to know God rightly apart from the Gospel. |
 | **Prudence in Unbelievers** | Unbelievers can possess natural prudence, though imperfectly. | Unbelievers can exercise genuine prudence and wisdom in civil affairs through God's preserving activity in creation. |
-| **Relationship to Grace** | Grace perfects and elevates prudence, producing supernatural prudence ordered to God. | Grace does not primarily elevate prudence into a higher virtue but renews the whole person through faith, enabling faithful service in vocation. |
+| **Relationship to Grace** | Grace grants infused prudence, producing supernatural prudence ordered to God. | Grace does not primarily elevate prudence into a higher virtue but renews the whole person through faith, enabling faithful service in vocation. |
 | **Relationship to Virtue Ethics** | Prudence is central to a comprehensive virtue ethics framework. | Classical Lutheranism retains virtue language but does not organize ethics around the virtues. Law/Gospel, vocation, faith, and neighbor-love are primary. |
 | **Highest Principle of Moral Action** | Prudence directs action toward the good in accordance with reason and ultimately God. | Faith working through love in obedience to God's Word directs moral action. |
 | **Primary Ethical Question** | "What does right reason require in this situation?" | "How may I faithfully serve God and my neighbor in my vocation?" |
 | **Civil Society** | Prudence is necessary for good governance, law, and social order. | Prudence is essential for temporal government, family life, education, commerce, and civic responsibility. |
-| **Orientation of Virtue** | Virtues are perfected when ordered toward God as the highest good. | Good works and virtues flow from faith but do not contribute to justification before God. |
+| **Orientation of Virtue** | Virtues are perfected when ordered toward God as the highest good. ST I-II Q1-5; ST Q II-II Q23| Good works and virtues flow from faith but do not contribute to justification before God. |
 | **Justification and Prudence** | Prudence contributes to moral excellence but cannot itself merit salvation apart from grace. | Prudence may be an admirable virtue, but justification is by faith alone and never by virtue. |
 | **Moral Framework** | Virtue → Prudence → Right Action | Faith → Vocation → Discernment → Loving Service of Neighbor |
 | **Representative Texts** | *Summa Theologiae* II-II, qq. 47–56 | *Apology of the Augsburg Confession* IV & XVIII; *Formula of Concord* II & VI |
 | **Representative Modern Scholar** | Jean Porter, Servais Pinckaers, Romanus Cessario | Gustaf Wingren, Oswald Bayer, Gilbert Meilaender |
 
-ChatGPT Sources:
 1. The Book of Concord [^boc]
     * Apology of the Augsburg Confession, Articles IV and XVIII.
     * Formula of Concord, Articles II and VI.  
 2. Luther, Temporal Authority: To What Extent It Should Be Obeyed (1523) [^temporal]
+3. Catholic Encyclopedia
+   * Prudence Article [^nae-prudence]
 
 
 ### Calvinism (Check References)
@@ -186,11 +206,11 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 **Sources:**
 - Catholic: [^1] [^st]
 - Lutheran: [^temporal]
-- Calvinist: [^boc]
+- Calvinist: [^calvinism] [^sytsma]
 - Methodist: [^wcm]
 
 ### New Advent Encyclopedia
-“One of the four cardinal virtues. Definitions of it are plentiful from Aristotle down. His "recta ratio agibilium" has the merits of brevity and inclusiveness. Father Rickaby aptly renders it as "right reason applied to practice". A fuller description and one more serviceable is this: an intellectual habit enabling us to see in any given juncture of human affairs what is virtuous and what is not, and how to come at the one and avoid the other. It is to be observed that prudence, whilst possessing in some sort an empire over all the moral virtues, itself aims to perfect not the will but the intellect in its practical decisions. Its function is to point out which course of action is to be taken in any round of concrete circumstances. It indicates which, here and now, is the golden mean wherein the essence of all virtue lies. It has nothing to do with directly willing the good it discerns. That is done by the particular moral virtue within whose province it falls. Prudence, therefore, has a directive capacity with regard to the other virtues. It lights the way and measures the arena for their exercise. The insight it confers makes one distinguish successfully between their mere semblance and their reality. It must preside over the eliciting of all acts proper to any one of them at least if they be taken in their formal sense. Thus, without prudence bravery becomes foolhardiness; mercy sinks into weakness, and temperance into fanaticism. But it must not be forgotten that prudence is a virtue adequately distinct from the others, and not simply a condition attendant upon their operation. Its office is to determine for each in practice those circumstances of time, place, manner, etc. which should be observed, and which the Scholastics comprise under the term medium rationis. So it is that whilst it qualifies immediately the intellect and not the will, it is nevertheless rightly styled a moral virtue.” [^nae]
+> “One of the four cardinal virtues. Definitions of it are plentiful from Aristotle down. His "recta ratio agibilium" has the merits of brevity and inclusiveness. Father Rickaby aptly renders it as "right reason applied to practice". A fuller description and one more serviceable is this: an intellectual habit enabling us to see in any given juncture of human affairs what is virtuous and what is not, and how to come at the one and avoid the other. It is to be observed that prudence, whilst possessing in some sort an empire over all the moral virtues, itself aims to perfect not the will but the intellect in its practical decisions. Its function is to point out which course of action is to be taken in any round of concrete circumstances. It indicates which, here and now, is the golden mean wherein the essence of all virtue lies. It has nothing to do with directly willing the good it discerns. That is done by the particular moral virtue within whose province it falls. Prudence, therefore, has a directive capacity with regard to the other virtues. It lights the way and measures the arena for their exercise. The insight it confers makes one distinguish successfully between their mere semblance and their reality. It must preside over the eliciting of all acts proper to any one of them at least if they be taken in their formal sense. Thus, without prudence bravery becomes foolhardiness; mercy sinks into weakness, and temperance into fanaticism. But it must not be forgotten that prudence is a virtue adequately distinct from the others, and not simply a condition attendant upon their operation. Its office is to determine for each in practice those circumstances of time, place, manner, etc. which should be observed, and which the Scholastics comprise under the term medium rationis. So it is that whilst it qualifies immediately the intellect and not the will, it is nevertheless rightly styled a moral virtue.” [^nae]
 
 ### Catechism of the Catholic Church
 
@@ -207,17 +227,16 @@ The catechism presents prudence as the “right reason in action,” the first o
 Prudence is one of the four cardinal virtues, defined as right reason applied to practice. It is an intellectual habit that enables a person to discern what is virtuous in any situation and how to pursue it. Unlike other moral virtues that perfect the will, prudence perfects the intellect in making practical decisions. It guides and measures the exercise of all other virtues, ensuring they are practiced rightly—without prudence, courage becomes recklessness, mercy becomes weakness, and temperance becomes fanaticism. Though it directs other virtues, prudence remains distinct, determining the proper time, place, and manner for moral actions, and is therefore rightly called a moral virtue itself.
 
 ### Holy Family School of Faith [^hfsof]
-The Holy Family School of Faith (HFSoF), based in Aquinas Summa Theologica, define prudence as follows:
-""
+The Holy Family School of Faith (HFSoF), based in Aquinas Summa Theologica, define prudence as follows: "Prudence is the art of making good decisions."
 
 Furthermore, proposes the following steps to a prudent action:
-1. Think (Deliberation). Consider the different alternatives for your choice of action.
-2. Make a choice (Judgment). From the diferent alternatives select one that is objectively good and helps you achieve your goal.
-3. Take action (Execution). Execute your choice.
+1. Counsel (Think or deliberation). Consider the different alternatives for your choice of action.
+2. Judgment (Make a choice). From the different alternatives select one that is objectively good and helps you achieve your goal.
+3. Commabd (Take action or execution). Execute your choice.
 
 Several vices are associated with the virtue of prudence and its different steps.
 1. When thinking you might be tempted to be rash, and move to the second step without thinking.
-2. When making a choice you might be tempted to be rash aswell, and move the the third step without making an appropriate judgment of the possible alternatives. On the other side, you might get "stuck" in step two in a situation colloquialy called "paralysis by analysis," or over-deliveration; thinking to much about what choice to make without making up your mind.
+2. When making a choice you might be tempted to be rash as well, and move the third step without making an appropriate judgment of the possible alternatives. On the other side, you might get "stuck" in step two in a situation colloquially called "paralysis by analysis," or over-deliberation; thinking too much about what choice to make without making up your mind.
 3. When taking action you might be tempted to procrastinate, in other words to not diligently start executing your selected action. Procrastination is related to the vice of negligence. On the other side, you might start but not finish. This is known as the vice of inconstancy.
 
 In summary, bad habits and vices related to the virtue of prudence are:
@@ -226,9 +245,7 @@ In summary, bad habits and vices related to the virtue of prudence are:
 * Negligence
 * Inconstancy
 
-In terms of Thomistic morals we can say that the two opposing vices to prudence are:
-* Defect: Rashness
-* Excess: Over caution/indecision
+In a simplified Aristotelian framework, prudence may be viewed as lying between rashness and excessive caution or indecision.
 
 
 ## Ideas
@@ -243,7 +260,7 @@ In terms of technology, several questions arise:
 
 To be able to answer these questions, it is necessary to have minimal but enough information about the technology and a reasonable amount of moral training.
 
-Instagram.
+### Instagram Case
 “Instagram is a social media platform designed for sharing photos, videos, and stories with other users.” 
 Initially, one might think that the technology was built to keep people in touch through their photos, videos, and stories. So, the intention to build this could have been morally correct. Now, I wonder, is this the way it is being used? Is it prudent for me to use this technology? To answer that question, I need to truly see into myself and answer the question, What do I want to use Instagram for? Is it to communicate? Is it to see what other people (potentially unknown) are up to? Is it to fuel my political beliefs? Is it just to spend hours in useless scrolling? Is it to numb my mind? Being honest about this could lead to potentially not using Instagram, or to limiting the network to people that the person actually knows and desires to follow. Gather all the pertinent and available information, and then discern from it what is the best moral course of action.
 
@@ -262,7 +279,7 @@ Initially, one might think that the technology was built to keep people in touch
 
 ---
 [^mw]: [Merriam Webster: Prudence](“Definition of PRUDENCE,” 3 October 2025, https://www.merriam-webster.com/dictionary/prudence.)
-[^1]:CCC 1806
+[^1]:Catechism of the Catholic Church, 1806
 [^nae]: [New Advent Encyclopedia: Prudence](https://www.newadvent.org/cathen/12517b.htm)
 [^st]: Summa Theologiae II–II, Questions 47–56
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
@@ -272,3 +289,11 @@ Initially, one might think that the technology was built to keep people in touch
 [^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
 
 [^hfsof]: [The Three Steps to Prudence](https://schooloffaith.com/rosary-archive/three-steps-to-prudence), [Prudence Conscience and Compassion](https://schooloffaith.com/rosary-archive/prudence-conscience-and-compassion), [Prudence](https://schooloffaith.com/rosary-archive/prudence)
+
+[^nae-prudence]: “CATHOLIC ENCYCLOPEDIA: Prudence,” n.d. https://www.newadvent.org/cathen/12517b.htm.
+[^luther_prudence]: This summary synthesizes Lutheran ethical themes rather than quoting a single confessional statement. It is based primarily on *The Book of Concord* (especially the *Apology of the Augsburg Confession*, Articles IV and XVIII, and the *Formula of Concord*, Solid Declaration II), Martin Luther's *Temporal Authority: To What Extent It Should Be Obeyed* (1523), Gustaf Wingren's *Luther on Vocation* (Philadelphia: Muhlenberg Press, 1957), and Oswald Bayer's *Martin Luther's Theology* (Grand Rapids: Eerdmans, 2008).
+
+
+# TODO
+Add the edits recommended
+Add the info from the Virtues Group from SPU
