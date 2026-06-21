@@ -179,7 +179,6 @@ Prudence helps Christians:
 Whereas Aquinas treats prudence as the cardinal virtue that perfects practical reason and directs the moral life, classical Methodism locates moral transformation within the work of sanctifying grace and the pursuit of holy love. Prudence remains an important Christian virtue, but it functions in service of love rather than as the governing principle of ethics.
 
 ### Comparison
-### Comparison
 
 | Tradition | Definition Emphasis | Role of Prudence | Organizing Principle of Christian Ethics |
 | --------- | ------------------- | ---------------- | ---------------------------------------- |
@@ -248,6 +247,10 @@ To be able to answer these questions, it is necessary to have minimal but enough
 ### Instagram Case
 “Instagram is a social media platform designed for sharing photos, videos, and stories with other users.” 
 Initially, one might think that the technology was built to keep people in touch through their photos, videos, and stories. So, the intention to build this could have been morally correct. Now, I wonder, is this the way it is being used? Is it prudent for me to use this technology? To answer that question, I need to truly see into myself and answer the question, What do I want to use Instagram for? Is it to communicate? Is it to see what other people (potentially unknown) are up to? Is it to fuel my political beliefs? Is it just to spend hours in useless scrolling? Is it to numb my mind? Being honest about this could lead to potentially not using Instagram, or to limiting the network to people that the person actually knows and desires to follow. Gather all the pertinent and available information, and then discern from it what is the best moral course of action.
+
+### Book Ideas
+
+When discussing this virtue, the three steps will be presented. In the second step, judgment, there should be a discussion about how a person needs to only consider the alternatives that are morally right. Here we can put a box indicating a brief analysis of what constitutes a morally right action (Object, Intention, Circumstances) and how reason and truth should be used to guide ones decision. Make a note saying that the book is not to show how to specifically discern if a moral object is right or not, make reference to the 10 commandments, the CCC, and do a brief discussion how "feelings" may be misleading, like in drunkenness, fornication, weed, etc.
 
 ### Integral Parts of Prudence [^st]
 
