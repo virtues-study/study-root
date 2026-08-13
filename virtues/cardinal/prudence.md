@@ -10,6 +10,7 @@ tags:
 refs:
   - aquinas
   - catechism
+  - pieper
 summary: "Prudence is the virtue that disposes practical reason to discern the true good and choose the right means to achieve it."
 aliases:
   - practical wisdom
@@ -197,6 +198,37 @@ Whereas Aquinas treats prudence as the cardinal virtue that perfects practical r
 
 Prudence is the virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means of achieving it; "the prudent man looks where he is going." "Keep sane and sober for your prayers." Prudence is "right reason in action," writes St. Thomas Aquinas, following Aristotle. It is not to be confused with timidity or fear, nor with duplicity or dissimulation. It is called auriga virtutum (the charioteer of the virtues); it guides the other virtues by setting rule and measure. It is prudence that immediately guides the judgment of conscience. The prudent man determines and directs his conduct in accordance with this judgment. With the help of this virtue we apply moral principles to particular cases without error and overcome doubts about the good to achieve and the evil to avoid. [^1]
 
+### Josef Pieper [^jpieper]
+
+* "Prudence is a perfected ability to make right decisions" (p4)
+* "Prudence is the measure of justice, fortitude, and temperance" (p7)
+* "Prudence is not to be a good tactician, prudence does not necessarily mean to 'be careful.'"
+* "Prudence is the cause, mother, root, measure, precept, guide, and prototype of all ethical virtues." (p8)
+* Prudence is rightly ordered conscience.
+* Prudence needs to be timely.
+* Prudence means cognition of reality. (p25)
+* Prudence and charity must collaborate.
+
+
+**Reality and Truth**: To be prudent one needs to observe and comform to reality, what the situation is, additionally consider the truth of the potential actions. "It is necessary  for the prudent man to know both the universal principles of reason and the singulars with which ethical actions is concerned." (p10) This means that one needs to know the universal distinction of moral and immoral actions to be prudent.
+This moral knowledge can come in a natural or supernatural form, in other words, the virtue can be natural or infused.
+
+Prudence first step is to assess what the reality of the situation, it must move to the according action.
+
+**Prudence versus Utilitarism**: Prudence searches for the good, utilitarism in contrast searches for the good *result* regardless of the action or means are moral or righteous.
+
+**Ten commandments**: Everyone who sins is imprudent.
+
+**Making and Doing** "Human activity has two basic forms doing (agere), making (facere). Artifacts are the product of making. We ourselves are the product 'works' of doing" (p29). Prudence helps the ability to do, virtuous in doing.
+
+#### Manners to fail meet demands included in Prudence
+* Lack of fulfilment of the prerequisites (Transformation from knowledge to prudent action: deliberation, judgment, decision)
+  * Lack of consideration: thoughtfullness and indecisiveness, negligence and blidnness. Faulty prudence.
+* Astutia (Cunning), the sole motivation of the decision is selfish.
+* Supreprudence, excess of consideration (paralysis by analysis)
+
+All these arise from covetousness, that is, the immoderate straining for all the posession which man thinks are needed to assure his own importance and status. A person can be imprudent of have faulty prudence by the covetousness of his desires. Too fast to make a choice, or the wrong choice to get recognized, or too slow to keep comfort (lazy).
+
 ### Magisterium AI
 
 The catechism presents prudence as the “right reason in action,” the first of the four cardinal virtues that orders the whole moral life and guides the other virtues. Prudence is tied to right reason applied to action and requires right appetite; if either is missing, prudence is lacking. [^mai1]
@@ -244,6 +276,11 @@ In terms of technology, several questions arise:
 
 To be able to answer these questions, it is necessary to have minimal but enough information about the technology and a reasonable amount of moral training.
 
+Before we can teach prudence we need to teach the concept of moral actions and its considerations of action, intention, and circumstances. In the case of technology:
+* Creating a computer (or biological) virus, depends on intention and circumstances
+* Science is god, is intrinsically evil
+* Technology will save us, is intrinsically evil
+
 ### Instagram Case
 “Instagram is a social media platform designed for sharing photos, videos, and stories with other users.” 
 Initially, one might think that the technology was built to keep people in touch through their photos, videos, and stories. So, the intention to build this could have been morally correct. Now, I wonder, is this the way it is being used? Is it prudent for me to use this technology? To answer that question, I need to truly see into myself and answer the question, What do I want to use Instagram for? Is it to communicate? Is it to see what other people (potentially unknown) are up to? Is it to fuel my political beliefs? Is it just to spend hours in useless scrolling? Is it to numb my mind? Being honest about this could lead to potentially not using Instagram, or to limiting the network to people that the person actually knows and desires to follow. Gather all the pertinent and available information, and then discern from it what is the best moral course of action.
@@ -252,18 +289,20 @@ Initially, one might think that the technology was built to keep people in touch
 
 When discussing this virtue, the three steps will be presented. In the second step, judgment, there should be a discussion about how a person needs to only consider the alternatives that are morally right. Here we can put a box indicating a brief analysis of what constitutes a morally right action (Object, Intention, Circumstances) and how reason and truth should be used to guide ones decision. Make a note saying that the book is not to show how to specifically discern if a moral object is right or not, make reference to the 10 commandments, the CCC, and do a brief discussion how "feelings" may be misleading, like in drunkenness, fornication, weed, etc.
 
-### Integral Parts of Prudence [^st]
+For the book it would make sense to stem everything from the beatitudes, I mean, they are the road to happiness laid out by Jesus, and they lead to human fulfilment. However, would this be "easy" to "sell" to a non-Christian audience?
+
+### Integral Parts of Prudence [^st] [^jpieper]
 
 According to Thomas Aquinas, prudence is not a single, isolated ability but a virtue composed of several **integral parts** (*partes integrales prudentiae*). These are not independent virtues; rather, they are the dispositions or capacities that together enable a person to make prudent judgments. If one of these parts is lacking, prudence is impaired.
 
 | Integral Part | Latin | Summary |
 |---------------|-------|---------|
-| **Memory** | *memoria* | The habit of faithfully remembering past experiences and lessons so they can inform present decisions. |
+| **Memory** | *memoria* | The habit of faithfully remembering past experiences and lessons so they can inform present decisions. Truthness of being of memory.|
 | **Understanding** | *intellectus* | The ability to grasp correctly the present reality and the moral principles relevant to the situation at hand. |
-| **Docility** | *docilitas* | The willingness to learn from the wisdom, experience, and counsel of others rather than relying solely on oneself. |
-| **Shrewdness** | *solertia* | The ability to recognize quickly the best course of action when immediate decisions are required. |
+| **Docility** | *docilitas* | The willingness to learn from the wisdom, experience, and counsel of others rather than relying solely on oneself. Open mindedness.|
+| **Shrewdness** | *solertia* | The ability to recognize quickly the best course of action when immediate decisions are required. Clear sighted objectivity in unexpected circumstances|
 | **Reason** | *ratio* | The careful process of comparing alternatives and judging which means best achieve the good. |
-| **Foresight (Providence)** | *providentia* | The ability to anticipate future consequences and choose actions that lead toward the proper end. |
+| **Foresight (Providence)** | *providentia* | The ability to anticipate future consequences and choose actions that lead toward the proper end. Setting eyes uppon what is not yet been realized, considering that there is inherent risk in all decisions but a timely action cannot wait until we have certainty of the outcome. *We need to trust in divine providence.* |
 | **Circumspection** | *circumspectio* | The habit of considering all the relevant circumstances that may affect whether an action is appropriate. |
 | **Caution** | *cautio* | The ability to recognize and avoid foreseeable moral dangers, temptations, or unintended harmful consequences. |
 
@@ -300,9 +339,36 @@ Caution
 Prudent Decision
 ```
 
+### Process of Decision Making
+```
+Issue
+ │
+ ▼
+Deliberation
+ │
+ ├─────────────► Failure to do this: thoughtfulness / rashness
+ │                                 : If done slow, paralysis by analysis
+ ▼
+Judgment
+ │
+ ├─────────────► Failure to do this: If done slow, paralysis by analysis
+ │
+ ▼
+Decision
+ │
+ ├─────────────► Failure to do this: if not done: irresolutness
+ │                                   if done bad, stopped, or slow, negligence or procrastination
+ ▼
+ Action
+```
+
+
+
 ## Seattle Pacific University Virtue Framework
 
 > Wisdom as an intellectually humble, open-minded discernment that balances the virtues and exercises them appropriately in the service of God and God’s creation. It is a virtue directed to oneself, one own thinking, urges, and emotions. 
+
+> Prudence is the moral virtue that disposes practical reason to discern our true good in every circumstance and to choose the right means to achieve it. It is often summarized as “right reason in action”, and it guides the other virtues by setting “rule and measure,” including by guiding one’s judgment of conscience.
 
 
 

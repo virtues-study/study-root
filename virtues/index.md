@@ -32,6 +32,9 @@ The moral virtues are acquired by human effort. They are the fruit and seed of m
 
 "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determinend by a rational principle, and by the principle which the man of practical wisdom would determine it. Now it is a mean between two vices, that which depends on excess and that which depends on defect [...] virtue both finds and chooses that which is intermediate." [^4]
 
+## Pieper
+"Virtue is a perfected ability"
+
 
 # Structure
 
