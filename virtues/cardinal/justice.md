@@ -274,19 +274,26 @@ Core references: CCC §1807; Aquinas, Summa Theologiae II–II, q. 58, a. 1; Ari
 # References
 
 [^mw]: [Merriam Webster: Prudence](“Definition of JUSTICE,” 13 August 2026, https://www.merriam-webster.com/dictionary/justice.)
+
 [^1]:Catechism of the Catholic Church, 1805, 1807
+
 [^nae]: [New Advent Encyclopedia: Justice](https://www.newadvent.org/cathen/08571c.htm)
+
 [^vov]: SHEEN, FULTON J. VICTORY OVER VICE & THE SEVEN VIRTUES. S.l.: BISHOP SHEEN TODAY, 2021.
 
+[^hfsof]: (Justice)[https://schooloffaith.com/rosary-archive/justice-1], (An introduction to Justice)[https://schooloffaith.com/rosary-archive/justice] 
+
+
 [^st]: Summa Theologiae II–II, Questions 47–56
+
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
+
 [^sytsma]: Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
 [^calvinism]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html), Westminster Assembly. The Westminster Confession of Faith and Catechisms. Presbyterian Church in America, 2003. https://thewestminsterstandard.org/the-westminster-confession/.
 
 [^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962. [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
 [^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
 
-[^hfsof]: (Justice)[https://schooloffaith.com/rosary-archive/justice-1], (An introduction to Justice)[https://schooloffaith.com/rosary-archive/justice] 
 
 
 [The Three Steps to Prudence](https://schooloffaith.com/rosary-archive/three-steps-to-prudence), [Prudence Conscience and Compassion](https://schooloffaith.com/rosary-archive/prudence-conscience-and-compassion), [Prudence](https://schooloffaith.com/rosary-archive/prudence)
@@ -305,29 +312,3 @@ Core references: CCC §1807; Aquinas, Summa Theologiae II–II, q. 58, a. 1; Ari
 
 
 
-
-
----
-
-
-## Definition
-
-### Dictionary
-
-### Oxford Encyclopedia of the Bible and Theology [^ox]
-
-### New Advent Encyclopedia
-
-### Catechism of the Catholic Church
-
-### Victory over Vice
-
-### Magisterium AI
-
-### Other Sources
-
-## Ideas
-
-## Examples
-
----
