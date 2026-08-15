@@ -34,6 +34,8 @@ The moral virtues are acquired by human effort. They are the fruit and seed of m
 
 ## Pieper
 "Virtue is a perfected ability"
+"The man attains to his true treasure and proper realization of himself when he sees the truth and 'does the truth.'" (p66)
+
 
 
 # Structure

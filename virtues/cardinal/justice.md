@@ -48,7 +48,7 @@ related:
 
 #### Contrast with Aquinas
 
-| Topic | Thomas Aquinas | Classical Lutheranism [^luther_prudence] |
+| Topic | Thomas Aquinas | Classical Lutheranism [^luther_justice] |
 | --------- | --------- | --------- |
 
 
@@ -72,7 +72,7 @@ related:
 
 ### Comparison
 
-| Tradition | Definition Emphasis | Role of Prudence | Organizing Principle of Christian Ethics |
+| Tradition | Definition Emphasis | Role of Justice | Organizing Principle of Christian Ethics |
 | --------- | ------------------- | ---------------- | ---------------------------------------- |
 
 
@@ -104,16 +104,76 @@ Vices against Justice:
 
 ### Josef Pieper [^jpieper]
 
+* It is the notion that each man is given what is his due. (p44)
+* The steadfast will to give each man its due (p90)
+* Dictionary and modern definitions of justice "are hardly intended to be proper definitions of the term." (p44)
+* It is important to define what is "due" to a person.
+  * At the basic level something that is contracted or agreed.
+  * At the general level every human being is due something, those are intrinsic rights. This might be due to him on the basis of the nature of the thing. Something like the human rights as defined by the UN
+  * Our Divine Sovereign divine gift to man is man's right.
+* The man who deprives another man of their inelianable rights harms himself and could even destroy himself. (e.g. Murder)
+* If a man "personhood" is denied, not considered something wholly and entirely real, "then right and justice cannot possibly be established." (e.g. slavery)
+* Justice demands the distinction of parties, the parties involved, the person who owns a due, and the person who is owed a due to. This persons might be individual man or they could be institutions.
+  * The other can be the community or social whole. This involves the concept of common good, this requires that every individual become good. (p59)
+  * Additionally, God could be the other party to whom a person is withwolding His due. (p59)
+* There is a distinction made by Thomas Aquinas between legally binding justice and morally binding justice. Carrying the second one depends entirely in the person's own sense of decency.
+* "God is indebted to no one." (p57)
+* Every sin can be considered an injustice
+* In the case of justice an external observer can determine objectively if an act is just or unjust. This doesn't happen with fortitude and temperance.
+* The act of justice is an external act, and every external act is an act of justice. An act can be considered from three different points of view:
+  1. The act can be treated in its relationship and fittingness (commensuratio) to the one performing.
+  2. In the relationship and fittingness to the other person
+  3. It can be regarded in itself
+* There can't be absolute justice if the parties are not equal.
+* The recognition of the "suum" that what is due to the person, rightly is called re-storation, re-stitution, re-compense, re-instatement to an original right.
+* Due to man's nature the balance is thrown out of equilibrium, and needs to be constantly "restored" by an act of justice. (p79)
+* The just man recognizes when wrong has been done, admits his own injustice, and endeavors to eradicate it. (p80)
+* Merely acknowledging the rights never creates justice; because justice distribution will be realized through a just government (p89)
+* > It is an illusion fostered by our socio-technological thinking to assume that a mere organizational perfection of political life, for instance through built-in automatic controls, might render justice as a virtue obsolete.
+* If it is utopian to think that we can educate people to be just, especially people groomed for leadership, then hope must be abandoned. (p90)
+* "for the sake of which man exists and which he has to realize in his life if it is to be said of him all his potentialities have been brought to fruition." Human fulfillment? (p98)
+* "Mercy without justice is the mother of dissolution," "justice without mercy is cruelty."
+* "To be willing to watch over peace and harmony among men through the commandments of justice is not enough when charity has not taken a firm root among them." (p113)
+
+
+
+
+
 #### Manners to fail meet demands included in Justice
 
 #### Ranks of Justice
+* Justice has a higher rank than fortitude and temperance because it orders man in himself and also the life of men together. To be just is directed to the innermost kernel of the spiritual will, as opposed to fortitude and temperance that are related mostly to bodily existence. (p66)
+* "Prudence has the good essentially, justice affects this good." (p67)
+* "justice not only has a sit in the will, that is, in the power that is formally directed toward the realization of good, but also that through justice the will is applied to its proper act." (p68)
 
 #### Three basic forms of Justice
+-	Ordo partium ad partes, commutative justice: Between individuals, equality in exchanges.
+  - Related to man. Man needs to acknowledge the rights of the other.
+  - Can be considered like giving and receiving.
+-	Ordo totius ad partes, distributive justice: From society to individuals, according to proportion.
+  - Related to community. Holds the concept of distribution of justice.
+  - It is directed from the social whole, the governor, the ruler, the lawgiver.
+  - The ruler or steward gives to each what his rank deserves.
+-	Ordo partium ad totum, Legal (or general) justice: From the individuals to the social whole, toward the common good, obeying laws.
+  - Common good (bonum commune) it is the 'social product,' the total product of commmunity life. (p96)
+  - Related to authority
+  - What is the suitable reward for people in power? Salary, respect?
+  - Ceiling of power: The fulfillment of iustitia distributiva (Pieper combines Legal and distributiva), however, cannot be enforced. It is inherent in the concept that no such enforcement should be possible. (p87)
 
 #### Distributive Justice
+Pieper considers within distributive ordo totius ad partes and ordo partium ad totum.
 
 #### Limits of Justice
+There are some debts that can't be repaid, then there will always be an unbalance, an unjustice that needs to be fulfilled somehow.
+Examples:
+- We can't repay our debt of existence to God. We repay by worship through the virtue of religion.
+- We can't repay our debt of care to our parents. We repay by honoring them.
+- We can't repay our debt of "care" to our country/government. We repay by respecting them.
+* The last two are related to the concept of *observantia*. How a person feels inwardly and behaves outwardly towards those persons who are distinguished by their office of some dignity. (p109)
+* Piety depends on soething being due to a person which its very nature cannot be fully paid. (p107)
 
+* Some behaviors cannot be compelled to perform but are obligatory, for instance to tell the truth.
+* Other behaviors are less compelled by required to keep joy in the community. That is liberality, affability, kindness.
 
 ### Vice over Virtue [^vov]
 "This is the meaning of the Crucifix: His death is not necessitated by the perverse will of sinful men, and, therefore, is not martyrdom; but rather a willing submission to their perverse will in order to awaken men to the malignity of their sin and thereby win them over to repentance."
@@ -190,7 +250,12 @@ Core references: CCC §1807; Aquinas, Summa Theologiae II–II, q. 58, a. 1; Ari
 
 
 ## Ideas
-
+* I wonder how we can project the concepts of justice to software development microcosmos. For instance:
+  * Teammate to teammate
+  * Company/Team to teammate
+  * Teammate to Company/Team
+  * Leadership at the different levels, how to "respect" them, and how to express criticism, unjustice, or opposition in either direction
+* In Magnificas Humanitas Pope Leo mentions that companies are having more power than governments (XXX), I wonder if companies would then be in charge of distributive justice as defined by Pieper.
 
 ### XXXX Case
 
