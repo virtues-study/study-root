@@ -46,6 +46,175 @@ related:
 
 ### Lutheranism
 
+---
+Classical Lutheranism does not normally organize its moral theology around “justice” as a cardinal virtue in quite the same way Thomistic Catholic theology does. Instead, the relevant Lutheran concepts are **righteousness**, **love of neighbor**, **vocation**, the **Ten Commandments**, and **civil righteousness**.
+
+#### Summary
+
+A good concise Lutheran account of justice would be:
+
+Justice is the Christian’s active righteousness toward the neighbor: seeking the neighbor’s good, protecting the neighbor’s rights, acting honestly and fairly within one’s vocations, and supporting just social and civil order. *Such justice does not make a person righteous before God; rather, it is a good work that flows from faith and serves the neighbor.*
+
+Lutheran theology distinguishes righteousness before God (coram Deo) from righteousness before the world/neighbor (coram mundo). Before God, human beings are justified through Christ, received by faith not by acquiring moral virtues or performing acts of justice. But precisely because Christians have received righteousness in Christ, they are freed to live outwardly in love and justice toward their neighbors. Luther explicitly describes this second righteousness as involving living “justly (referring to one’s neighbor).”  
+
+Lutheran justice is characterized as:
+
+faith → righteousness received from Christ → love of neighbor → just action within one’s vocations and society.
+
+That is somewhat different structurally from the Thomistic movement of habit/virtue → stable disposition → rendering another his due → just acts.
+
+⸻
+
+#### Expanded account with checked references
+
+1. The foundational Lutheran distinction: two kinds of righteousness
+
+The most important starting point is Martin Luther’s “Two Kinds of Righteousness.”
+
+Luther distinguishes:
+
+1. Alien righteousness — Christ’s righteousness, received through faith.
+2. Proper righteousness — the Christian life that follows from that gift.
+
+Luther describes the second righteousness as consisting in three relationships:
+
+* discipline of oneself,
+* love toward the neighbor,
+* meekness and fear toward God.
+
+Most importantly for our purposes, Luther interprets Titus 2:12 as: “justly (referring to one’s neighbor).” He then explains that Christ did not seek his own good but ours, and Christians likewise ought to seek the good of their neighbors. This gives us perhaps the strongest historical Lutheran basis for understanding justice as a virtue directed toward right relationship with one’s neighbor.
+
+References
+- Two kinds of righteousness [^two_kinds]
+
+⸻
+
+2. Justice does NOT justify the person before God
+
+This point distinguishes Lutheran moral theology sharply from any interpretation in which the cultivation of justice contributes to justification.
+
+The Augsburg Confession, Article XX, says that good works are necessary because God wills them, but they do not merit grace or forgiveness. Instead, justification is received through faith in Christ. The Confession then says that faith and the Holy Spirit renew the heart so that good works follow. Therefore we can say that *justice is a consequence of justification, not its cause*.
+
+Augsburg Confession XX:27–35, “Of Good Works.” Particularly important are §§27–29: good works are to be done because God wills them; forgiveness is received through faith; and the Holy Spirit renews the heart so that good works follow.  
+
+References:
+- Formula of  Concord, Solid Declaration IV, “Good Works.”  [^boc]
+⁠- Augsburg Confession XX — Of Good Works [^augs_xx]
+
+⸻
+
+3. Lutheranism recognizes “civil righteousness”
+
+This is especially interesting for our comparison. The Augsburg Confession XVIII explicitly teaches that human beings possess some natural ability to choose “civil righteousness” and perform things accessible to reason. But it immediately distinguishes this from “the righteousness of God,” or spiritual righteousness, which cannot be produced without the Holy Spirit.  
+
+So Lutheran theology does not say that unbelievers are incapable of justice.
+
+A non-Christian can:
+
+* act honestly,
+* obey laws,
+* refrain from theft or murder,
+* administer government justly,
+* protect another’s property,
+* make fair agreements,
+* perform genuinely valuable civic actions.
+
+Those things constitute real civil righteousness.
+
+But civil righteousness must not be confused with the righteousness by which a sinner stands justified before God.
+
+The Apology of the Augsburg Confession makes the distinction even stronger. It recognizes a genuine “righteousness of reason” and says that uprightness and virtue are a great good in earthly life. Nevertheless, this righteousness cannot merit forgiveness or make someone righteous before God.  
+
+This provides a very useful conceptual bridge between Lutheran theology and your secular sources.
+
+References
+⁠- Augsburg Confession XVIII — Of Free Will [^augs_xviii]
+
+⸻
+
+4. Justice includes protecting the neighbor’s rights
+
+From Luther’s Large Catechism, he provides an explanation of the Eighth Commandment; Luther goes beyond simply saying “don’t lie.” He says that the commandment requires people to: “help his neighbor to secure his rights” and to prevent those rights from being distorted or obstructed. He applies this explicitly to judges and witnesses and says that justice must not be corrupted because of someone’s money, possessions, honor, or power.  
+
+That is remarkably close to what we ordinarily mean by justice. It means Lutheran justice involves more than refraining from harming someone. There is a positive obligation to defend the neighbor’s rights.
+
+Reference
+
+- Martin Luther, Large Catechism, First Part: The Ten Commandments, Eighth Commandment, especially §§260–261. [^large_cat]  
+
+⸻
+
+5. Justice operates through vocation
+
+The Augsburg Confession XX specifically praises Christian teaching concerning the various “estates and duties of life” and the works appropriate to one’s calling. Justice therefore isn’t primarily an abstract moral achievement. It occurs when someone faithfully serves the neighbor through his or her actual calling: parent, teacher, employer, employee, judge, citizen, pastor, ruler, etc.
+
+The Augsburg Confession makes this particularly concrete in Article XVI, “Civil Affairs.” It says Christians may legitimately:
+
+* hold civil office,
+* serve as judges,
+* judge according to law,
+* impose just punishments,
+* make legal contracts,
+* own property,
+* serve in legitimate civil institutions.
+
+It actually calls lawful civil ordinances “good works of God.”  
+
+So justice has a strongly vocational and social dimension in Lutheran theology.
+
+References:
+- Augsburg Confession XVI — Of Political Order [^augs_xvi]
+⁠- Augsburg Confession XX — Of Good Works [^augs_xx]
+
+⸻
+
+6. Justice becomes an expression of love
+
+This is where Lutheran terminology differs significantly from Aquinas. Rather than treating justice primarily as an independently analyzed cardinal virtue, Lutheran thought tends to place just action under love of neighbor. Luther’s “Two Kinds of Righteousness” already does this: active righteousness manifests itself in love directed toward one’s neighbor.  
+
+Contemporary Lutheran theology continues that trajectory. The ELCA’s officially adopted 2019 social statement Faith, Sexism, and Justice: A Call to Action uses the term “neighbor justice.” It states: “In society, neighbor love takes the form of neighbor justice.”
+
+It further says that acting justly in family, church, and society for the common good is central to human vocation. It also explicitly recognizes reason and knowledge as gifts of God that help human beings determine what policies and structures promote justice in particular circumstances.  
+
+This contemporary formulation is very useful:
+
+Love of neighbor → neighbor justice.
+
+References:
+- Faith, Sexism, and Justice: A Call to Action: A Social Statement. Evangelical Lutheran Church in America [^elca]
+
+⸻
+
+**An important Catholic–Lutheran distinction**
+
+This is where I think your Virtues Map can become particularly interesting.
+
+Aquinas gives us the classic definition: *justice is the habit by which a person renders to each one his due with a constant and perpetual will.*
+
+That makes justice itself a virtue/habit, with an identifiable object: ius — what is right or due to another.
+
+Lutheranism doesn’t reject the behavior Aquinas describes. Quite the contrary: Luther speaks explicitly about protecting another’s rights, just judgment, honest dealings, care for one’s neighbor, civic righteousness, etc.  
+
+The difference is the theological architecture around it.
+
+| Catholic Thomistic | Lutheran |
+| ------------------ | -------- |
+| Justice is one of the four cardinal virtues.	| Justice is more commonly discussed through righteousness, vocation, commandments, and neighbor-love.| 
+| Justice is a stable moral habit.	| Just action is a fruit/expression of faith active in love.| 
+| Its object is what is due to another.	| Its orientation is the good and rights of the neighbor.| 
+| Natural virtue can genuinely perfect human action.	| Civil righteousness is genuinely possible through reason.| 
+| Grace perfects nature and elevates virtue.	| Spiritual righteousness comes from Christ and is received through faith.| 
+| Justice belongs within the Christian moral life.	| Justice follows justification; it never produces justification.| 
+
+There is therefore considerable overlap at the level of moral action, but a substantial difference in the theological account of why and how that action relates to righteousness before God.  
+
+A working definition:
+> Lutheranism understands justice primarily as active righteousness toward the neighbor: seeking the neighbor’s good, protecting the neighbor’s rights, acting honestly and fairly within one’s vocation, and sustaining just civil and social order. Such justice does not justify a person before God, since righteousness before God is received through Christ by faith; rather, just works flow from faith and express love of neighbor in the world.
+
+
+---
+
+
 #### Contrast with Aquinas
 
 | Topic | Thomas Aquinas | Classical Lutheranism [^luther_justice] |
@@ -295,13 +464,26 @@ Core references: CCC §1807; Aquinas, Summa Theologiae II–II, q. 58, a. 1; Ari
 
 [^vov]: SHEEN, FULTON J. VICTORY OVER VICE & THE SEVEN VIRTUES. S.l.: BISHOP SHEEN TODAY, 2021.
 
-[^hfsof]: (Justice)[https://schooloffaith.com/rosary-archive/justice-1], (An introduction to Justice)[https://schooloffaith.com/rosary-archive/justice] 
+[^hfsof]: [Justice](https://schooloffaith.com/rosary-archive/justice-1), [An introduction to Justice](https://schooloffaith.com/rosary-archive/justice)
 
 [^jpieper]: Pieper, Josef. The Four Cardinal Virtues. Translated by Richard and Clara Winston. University of Notre Dame Press, 1966.
 
 [^st]: Summa Theologiae II–II, Questions 47–56
 
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
+
+[^two_kinds]: Martin Luther, “Two Kinds of Righteousness” (1519), in Luther’s Works, vol. 31, Career of the Reformer I, ed. Harold J. Grimm (Philadelphia: Fortress Press), pp. 297–306. The LCMS reproduces pp. 297–300 and explicitly identifies the source. Lull, Timothy F., and William R. Russell, eds. Martin Luther’s Basic Theological Writings. Fortress Press, 2012. https://ebookcentral-proquest-com.ezproxy.spu.edu/lib/spu/detail.action?docID=1172360.
+
+[^augs_xx]: Confident.Faith. “Art. XX: Of Good Works | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xx/.
+
+[^augs_xvi]: Confident.Faith. “Art. XVI: Of Political Order | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xvi/.
+
+[^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii/.
+
+[^large_cat]: Luther, Martin. “The Large Catechism.” Pages 377–480 in The Book of Concord: The Confessions of the Evangelical Lutheran Church. Edited by Robert Kolb and Timothy J. Wengert, Translated by Charles Arand and others. Fortress Press, 2000.
+
+[^elca]: Evangelical Lutheran Church in America. “Faith, Sexism, and Justice: A Call to Action: A Social Statement.” Evangelical Lutheran Church in America, 2019.
+
 
 [^sytsma]: Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
 [^calvinism]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html), Westminster Assembly. The Westminster Confession of Faith and Catechisms. Presbyterian Church in America, 2003. https://thewestminsterstandard.org/the-westminster-confession/.
