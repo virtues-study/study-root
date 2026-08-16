@@ -466,9 +466,9 @@ Justice is important.
 [^st]: Summa Theologiae II–II, Questions 47–56
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
 [^two_kinds]: Martin Luther, “Two Kinds of Righteousness” (1519), in Luther’s Works, vol. 31, Career of the Reformer I, ed. Harold J. Grimm (Philadelphia: Fortress Press), pp. 297–306. The LCMS reproduces pp. 297–300 and explicitly identifies the source. Lull, Timothy F., and William R. Russell, eds. Martin Luther’s Basic Theological Writings. Fortress Press, 2012. https://ebookcentral-proquest-com.ezproxy.spu.edu/lib/spu/detail.action?docID=1172360.
-[^augs_xx]: Confident.Faith. “Art. XX: Of Good Works | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xx
-[^augs_xvi]: Confident.Faith. “Art. XVI: Of Political Order | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xvi
-[^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii
+[^augs_xx]: Confident.Faith. “Art. XX: Of Good Works Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xx
+[^augs_xvi]: Confident.Faith. “Art. XVI: Of Political Order Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xvi
+[^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii
 [^large_cat]: Luther, Martin. “The Large Catechism.” Pages 377–480 in The Book of Concord: The Confessions of the Evangelical Lutheran Church. Edited by Robert Kolb and Timothy J. Wengert, Translated by Charles Arand and others. Fortress Press, 2000.
 [^elca]: Evangelical Lutheran Church in America. “Faith, Sexism, and Justice: A Call to Action: A Social Statement.” Evangelical Lutheran Church in America, 2019.
 
