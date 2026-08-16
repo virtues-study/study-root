@@ -431,6 +431,7 @@ Core references: CCC §1807; Aquinas, Summa Theologiae II–II, q. 58, a. 1; Ari
 
 ### Holy Family School of Faith [^hfsof]
 
+Justice is important.
 
 ## Ideas
 * I wonder how we can project the concepts of justice to software development microcosmos. For instance:
