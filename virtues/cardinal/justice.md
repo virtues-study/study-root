@@ -458,49 +458,20 @@ Justice is important.
 # References
 
 [^mw]: [Merriam Webster: Prudence](“Definition of JUSTICE,” 13 August 2026, https://www.merriam-webster.com/dictionary/justice.)
-
 [^1]:Catechism of the Catholic Church, 1805, 1807
-
 [^nae]: [New Advent Encyclopedia: Justice](https://www.newadvent.org/cathen/08571c.htm)
-
 [^vov]: SHEEN, FULTON J. VICTORY OVER VICE & THE SEVEN VIRTUES. S.l.: BISHOP SHEEN TODAY, 2021.
-
-[^hfsof]: [Justice](https://schooloffaith.com/rosary-archive/justice-1), [An introduction to Justice](https://schooloffaith.com/rosary-archive/justice)
-
+[^hfsof]: Holy Family School of Faith Rosary meditations: [Justice](https://schooloffaith.com/rosary-archive/justice-1), [An introduction to Justice](https://schooloffaith.com/rosary-archive/justice)
 [^jpieper]: Pieper, Josef. The Four Cardinal Virtues. Translated by Richard and Clara Winston. University of Notre Dame Press, 1966.
-
 [^st]: Summa Theologiae II–II, Questions 47–56
-
 [^boc]: [Book of Concord](https://thebookofconcord.org/)
-
 [^two_kinds]: Martin Luther, “Two Kinds of Righteousness” (1519), in Luther’s Works, vol. 31, Career of the Reformer I, ed. Harold J. Grimm (Philadelphia: Fortress Press), pp. 297–306. The LCMS reproduces pp. 297–300 and explicitly identifies the source. Lull, Timothy F., and William R. Russell, eds. Martin Luther’s Basic Theological Writings. Fortress Press, 2012. https://ebookcentral-proquest-com.ezproxy.spu.edu/lib/spu/detail.action?docID=1172360.
-
-[^augs_xx]: Confident.Faith. “Art. XX: Of Good Works | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xx/.
-
-[^augs_xvi]: Confident.Faith. “Art. XVI: Of Political Order | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xvi/.
-
-[^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii/.
-
+[^augs_xx]: Confident.Faith. “Art. XX: Of Good Works | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xx
+[^augs_xvi]: Confident.Faith. “Art. XVI: Of Political Order | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xvi
+[^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will | Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii
 [^large_cat]: Luther, Martin. “The Large Catechism.” Pages 377–480 in The Book of Concord: The Confessions of the Evangelical Lutheran Church. Edited by Robert Kolb and Timothy J. Wengert, Translated by Charles Arand and others. Fortress Press, 2000.
-
 [^elca]: Evangelical Lutheran Church in America. “Faith, Sexism, and Justice: A Call to Action: A Social Statement.” Evangelical Lutheran Church in America, 2019.
 
-
-[^sytsma]: Sytsma, David S. “John Calvin and Virtue Ethics.” Journal of Religious Ethics 48.3 (2020): 519–56. https://doi.org/10.1111/jore.12324.
-[^calvinism]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. [Institutes of the Christian Religion](https://www.ccel.org/ccel/calvin/institutes.toc.html), Westminster Assembly. The Westminster Confession of Faith and Catechisms. Presbyterian Church in America, 2003. https://thewestminsterstandard.org/the-westminster-confession/.
-
-[^temporal]: Luther, Martin. “Temporal Authority: To What Extent It Should Be Obeyed.” Pages 81–129 in Luther’s Works, Volume 45: The Christian in Society II. Edited by Walther I. Brandt and Helmut T. Lehmann. Fortress Press, 1962. [Temporal Authority: To What Extent It Should be Obeyed (Taylor Francis)](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003247531-17/martin-luther-temporal-authority-extent-obeyed-1523-matthew-rowley-marietta-van-der-tol)
-[^wcm]: Wesley, John. The Character of a Methodist. Printed by W. Strahan, 1742. [The Character of a Methodist](https://pages.uoregon.edu/sshoemak/323/texts/Wesley%20Character.htm)
-[^nae-prudence]: “CATHOLIC ENCYCLOPEDIA: Prudence,” n.d. https://www.newadvent.org/cathen/12517b.htm.
-[^luther_prudence]: This summary synthesizes Lutheran ethical themes rather than quoting a single confessional statement. It is based primarily on *The Book of Concord* (especially the *Apology of the Augsburg Confession*, Articles IV and XVIII, and the *Formula of Concord*, Solid Declaration II), Martin Luther's *Temporal Authority: To What Extent It Should Be Obeyed* (1523), Gustaf Wingren's *Luther on Vocation* (Philadelphia: Muhlenberg Press, 1957), and Oswald Bayer's *Martin Luther's Theology* (Grand Rapids: Eerdmans, 2008).
-[^inst1]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. https://ccel.org/ccel/calvin/institutes/institutes.
-(Book II, Chapter 2, 15)
-[^inst2]: Calvin, John. Institutes of the Christian Religion. Edited by John T. McNeill. Translated by Battles Ford Battles. Library of Christian Classics edition. Vol. 1 and 2. Westminster John Knox Press, 1960. https://ccel.org/ccel/calvin/institutes/institutes.
-(Book II, Chapter 2, 13-17)
-[^cori]: Wesley, John. “The Case of Reason Impartially Considered.” The Works of John Wesley. Edited by Thomas Jackson. Vol. 11. Baker Book House, 1986. https://wesley.nnu.edu/john-wesley/the-works-of-john-wesley-vol-11-the-jackson-edition-theology-and-prose/the-case-of-reason-impartially-considered/.
-[^sso]: Wesley, John. Sermons on Several Occasions. John Wesley, 1746. https://wesley.nnu.edu/john-wesley/sermons-on-several-occasions/.
-[^mai1]: Kevin O'Reilly, O.P. "God, the University, and Human Flourishing." In Nova et Vetera, English Edition, vol. 14, no. 4. Steubenville, OH: St. Paul Center for Biblical Theology, 2016. Sebastian Walshe, O.Praem. "The Formation and Exercise of Conscience in Private and Public Matters." In Nova et Vetera, English Edition, vol. 16, no. 1. Steubenville, OH: St. Paul Center for Biblical Theology, 2018.
-[^mai2]: Hütter, Reinhard. "Conscience “Truly So Called” and Its Counterfeit: John Henry Newman and Thomas Aquinas on What Conscience Is and Why It Matters." In Nova et Vetera, English Edition, vol. 12, no. 3. Steubenville, OH: St. Paul Center for Biblical Theology, 2014.
 
 
 
