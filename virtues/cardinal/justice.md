@@ -270,7 +270,7 @@ Four virtues play a pivotal role and accordingly are called "cardinal"; all the 
 #### CCC 1807 
 Justice is the moral virtue that consists in the constant and firm will to give their due to God and neighbor. Justice toward God is called the "virtue of religion." Justice toward men disposes one to respect the rights of each and to establish in human relationships the harmony that promotes equity with regard to persons and to the common good. The just man, often mentioned in the Sacred Scriptures, is distinguished by habitual right thinking and the uprightness of his conduct toward his neighbor. "You shall not be partial to the poor or defer to the great, but in righteousness shall you judge your neighbor."68 "Masters, treat your slaves justly and fairly, knowing that you also have a Master in heaven."
 
-### Types of Justice (Check references)
+### Types of Justice [^csd] [^ccc2411] [^ucc] [^gavv] [^tacne]
 The Church distinguishes:
 -	Commutative justice: Between individuals, equality in exchanges.6
 -	Distributive justice: From society to individuals, according to proportion.6
@@ -279,11 +279,133 @@ The Church distinguishes:
 -	Justice toward God (religion) renders honor, worship via prayer, sacrifice—yet cannot equalize Creator-creature.5
 Compendium of the Social Doctrine of the Church
 
-Vices against Justice:
+Vices against Justice [^hip] [^basil] [^francis]
 -	Commutative injustice: Theft, fraud, cheating in exchanges (CCC 2407-2408).6
 -	Distributive/legal injustice: Corruption, favoritism, neglecting common good.1 4
 -	Social injustice: Structural imbalances exploiting the poor.4 7
 
+---
+
+Your list is substantially correct, but it should be refined in two ways:
+
+1. **“Injustice” is the general vice**, while theft, fraud, corruption, favoritism, and exploitation are particular forms or manifestations of it.
+2. **Social injustice is not limited to poverty or economic exploitation**; it includes unjust social, political, and economic structures that violate human dignity and rights.
+
+## Completed classification
+
+### Commutative injustice
+
+**Commutative justice** governs exchanges and relationships between individuals. It strictly requires respect for property rights, payment of debts, and fulfillment of freely contracted obligations. [^1]
+
+**Vices and acts contrary to commutative justice include:**
+
+- **Theft and robbery** — taking or using another’s property against the owner’s reasonable will. [^2]
+- **Fraud and deception** — obtaining another’s property or consent through lies, concealment, or dishonest representation.
+- **Cheating in exchanges** — unfair prices, false measurements, adulterated goods, dishonest contracts, and other forms of commercial deception.
+- **Failure to pay debts** or to fulfill legitimate contractual obligations. [^1]
+- **Withholding just wages** or exploiting workers through seriously unjust conditions.
+- **Damage to another’s person or property** — including unjust injury to bodily integrity or possessions.
+- **Slander, calumny, and unjust damage to reputation** — because a person’s good name is also a good to which he or she has a right.
+- **Failure to make restitution or reparation** after causing unjust harm.
+
+The essential principle is that commutative injustice violates a specific right belonging to another person. The traditional account states that restitution, compensation, retraction, or apology may be required to restore what has been wrongfully taken or damaged. [^3]
+
+**Recommended formulation:**
+
+> **Commutative injustice:** theft, robbery, fraud, cheating, breach of contract, nonpayment of debts or wages, unjust injury, slander, and refusal to make restitution. *CCC 2407–2408, 2411.*
+
+### Distributive injustice
+
+**Distributive justice** governs what the community owes its members. It requires the fair distribution of common goods, opportunities, protections, and burdens according to relevant considerations such as need, contribution, and responsibility. [^1]
+
+**Vices and acts contrary to distributive justice include:**
+
+- **Unjust discrimination** in distributing public goods or opportunities.
+- **Favoritism and nepotism** when irrelevant personal connections determine access to benefits.
+- **Exclusion of the poor or vulnerable** from basic goods and services.
+- **Misallocation of public resources** for the benefit of a privileged group.
+- **Disproportionate burdens** imposed on those least able to bear them.
+- **Neglect of legitimate social needs**, such as access to health care, social protection, pensions, or other basic services.
+- **Corruption in the distribution of benefits**, especially when public goods are treated as private privileges.
+
+Distributive justice does not necessarily mean giving everyone identical benefits. It means ensuring that communal goods are made accessible in a manner proportionate to people’s legitimate needs and contributions, while no one is unjustly excluded from basic goods. [^4]
+
+**Recommended formulation:**
+
+> **Distributive injustice:** corruption, favoritism, nepotism, unjust discrimination, exclusion from basic goods, unequal distribution of public benefits or burdens, and neglect of the needs of the poor and vulnerable.
+
+### Legal or general injustice
+
+**Legal justice** concerns what citizens and public authorities owe to the community and the common good. It is not merely a matter of obeying civil regulations; it includes fulfilling legitimate civic responsibilities and promoting a social order that protects the rights of all. The Catechism distinguishes it from distributive justice, which concerns what the community owes its citizens. [^1]
+
+**Vices and acts contrary to legal justice include:**
+
+- **Corruption and bribery** in public office.
+- **Abuse of authority** for personal or factional advantage.
+- **Favoritism and patronage** in the administration of law or public resources.
+- **Tax evasion or fraudulent avoidance of legitimate civic obligations.**
+- **Disregard for just laws** and legitimate public duties.
+- **Manipulation of laws or institutions** to serve private interests rather than the common good.
+- **Failure of public officials to protect rights** or to administer justice impartially.
+- **Neglect of the common good**, especially when those entrusted with authority knowingly permit serious injustice.
+
+However, not every violation of a civil regulation is automatically a violation of moral justice. Legal justice concerns **just laws and legitimate obligations**. A law that contradicts the moral law or fundamental human rights cannot transform injustice into justice.
+
+**Recommended formulation:**
+
+> **Legal or general injustice:** corruption, bribery, abuse of authority, favoritism in public administration, evasion of legitimate civic obligations, disregard for just laws, and failure to promote or protect the common good.
+
+### Social injustice
+
+**Social justice** concerns the broader social, political, and economic order. The Compendium describes it as addressing the structural dimension of social problems and their solutions. [^5]
+
+**Vices and acts contrary to social justice include:**
+
+- **Structural exploitation of the poor**, especially through economic systems that leave workers unable to meet basic needs.
+- **Persistent social and economic imbalances** that concentrate wealth and power while excluding large sectors of the population.
+- **Institutional discrimination** against particular groups.
+- **Systemic exclusion** from employment, education, health care, housing, legal protection, or political participation.
+- **Unjust labor structures**, including exploitation, unsafe conditions, and wages insufficient for a dignified life.
+- **Indifference to entrenched injustice**, when individuals or institutions knowingly benefit from or refuse to correct unjust structures.
+- **Failure to protect the rights of the poor, weak, and marginalized.**
+- **Social policies or institutions that treat persons merely as instruments of profit or power.**
+
+Pope John Paul II identified as unjust situations in which wealth and power are concentrated in the hands of some while large portions of society cannot adequately support their families, even through exhausting labor. [^6]
+
+The Compendium likewise teaches that injustice can become embodied in society and affect entire categories of people, producing abuses and imbalances that require a social-justice response. [^7]
+
+**Recommended formulation:**
+
+> **Social injustice:** unjust social, political, or economic structures; systemic discrimination; institutional exclusion; exploitation of workers and the poor; concentration of wealth and power that deprives large groups of basic goods; and culpable indifference to these conditions.
+
+## Important qualification about “structural sin”
+
+A social structure is not a moral agent in precisely the same way that an individual person is. Therefore, it is more precise to say:
+
+- a structure can be **objectively unjust**;
+- individuals, institutions, or authorities can be **morally responsible** for creating, maintaining, benefiting from, or refusing to reform it;
+- personal guilt depends on factors such as knowledge, freedom, intention, and the person’s actual power to change the situation.
+
+Thus, “structural injustice” should not automatically be treated as personal mortal sin for every individual who participates in a society. Nevertheless, knowingly cooperating in or benefiting from serious injustice can create a real moral responsibility, especially when one has the ability and duty to oppose or remedy it.
+
+## Consolidated list
+
+- **Commutative injustice:** theft, robbery, fraud, cheating, breach of contract, failure to pay debts or wages, unjust injury, slander or calumny, and failure to make restitution.
+- **Distributive injustice:** corruption in allocation, favoritism, nepotism, unjust discrimination, exclusion from basic goods, unequal distribution of public benefits or burdens, and neglect of the vulnerable.
+- **Legal or general injustice:** corruption, bribery, abuse of authority, evasion of legitimate civic duties, disregard for just laws, manipulation of institutions, and neglect of the common good.
+- **Social injustice:** unjust structures, systemic discrimination, institutional exclusion, exploitation of workers and the poor, severe concentration of wealth and power, and culpable indifference to persistent social injustice.
+
+The principal sources support your original classification, but **“corruption” is best placed primarily under legal and distributive injustice**, while **“structural exploitation” belongs especially to social injustice but may also involve commutative injustice when particular persons are directly defrauded, underpaid, or exploited.**
+
+[^1] [CCC, 2411](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2411)
+[^2] [Catechism of the Catholic Church, 2408](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2408)
+[^3] [Catholic Encyclopedia, Injustice](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Injustice)
+[^4] [Catechism of the Ukrainian Catholic Church: Christ – Our Pascha, 942](https://www.magisterium.com/docs/5c0fb401-3c71-494e-bfce-ac8641dafd3b/ref/942)
+[^5] [Compendium of the Social Doctrine of the Church, 201](https://www.magisterium.com/docs/21d06633-8734-43cd-b8bc-9ab3b84ebc30/ref/201)
+[^6] [Meeting with landowners and workers of sugar cane plantations in Bacolod City (February 20, 1981) - Speech, 4](https://www.magisterium.com/docs/fa4f3339-8fa3-4a2a-997c-ec451e610a27/ref/4)
+[^7] [Compendium of the Social Doctrine of the Church, 81](https://www.magisterium.com/docs/21d06633-8734-43cd-b8bc-9ab3b84ebc30/ref/81)
+
+---
 
 ### Josef Pieper [^jpieper]
 
@@ -457,7 +579,7 @@ Justice is important.
 ---
 # References
 
-[^mw]: [Merriam Webster: Prudence](“Definition of JUSTICE,” 13 August 2026, https://www.merriam-webster.com/dictionary/justice.)
+[^mw]: [Merriam Webster: Justice](“Definition of JUSTICE,” 13 August 2026, https://www.merriam-webster.com/dictionary/justice.)
 [^1]:Catechism of the Catholic Church, 1805, 1807
 [^nae]: [New Advent Encyclopedia: Justice](https://www.newadvent.org/cathen/08571c.htm)
 [^vov]: SHEEN, FULTON J. VICTORY OVER VICE & THE SEVEN VIRTUES. S.l.: BISHOP SHEEN TODAY, 2021.
@@ -471,7 +593,12 @@ Justice is important.
 [^augs_xviii]: Confident.Faith. “Art. XVIII: Of Free Will Book of Concord,” 10 December 2019. https://thebookofconcord.org/apology-of-the-augsburg-confession/article-xviii
 [^large_cat]: Luther, Martin. “The Large Catechism.” Pages 377–480 in The Book of Concord: The Confessions of the Evangelical Lutheran Church. Edited by Robert Kolb and Timothy J. Wengert, Translated by Charles Arand and others. Fortress Press, 2000.
 [^elca]: Evangelical Lutheran Church in America. “Faith, Sexism, and Justice: A Call to Action: A Social Statement.” Evangelical Lutheran Church in America, 2019.
-
-
-
+[^csd]: Pontifical Council for Justice and Peace. Compendium of the Social Doctrine of the Church. Vatican City: Libreria Editrice Vaticana, 2006.
+[^ucc]: Synod of the Ukrainian Greek Catholic Church. Catechism of the Ukrainian Catholic Church: Christ – Our Pascha. 2016. § 942.
+[^ccc2411]: Catechism of the Catholic Church. Vatican: Libreria Editrice Vaticana, 1992. § 2411.
+[^gavv]: Pope Francis. General Audience. Saint Peter's Square, Vatican City: Libreria Editrice Vaticana, 2024.
+[^tacne]: Aquinas, Thomas. "Commentary on the Nicomachean Ethics." 1272.
+[^hip]: Augustine of Hippo. "Letter 167 From Augustine to Jerome, on James 2:10." In Nicene and Post-Nicene Fathers, no. 167. Buffalo, NY: Christian Literature Publishing Co., 415.
+[^basil]: Basil Cole, O.P. "A Thomistic Appraisal of the Catechism of the Catholic Church on the Capital Vices." In Nova et Vetera, vol. 16, no. 1. Steubenville, OH: St. Paul Center for Biblical Theology, 2018.
+[^francis]: Pope Francis. Holy Mass for the 100th anniversary of Saint John Paul II's birth (18 May 2020). 2020.
 
