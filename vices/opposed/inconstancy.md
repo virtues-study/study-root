@@ -1,6 +1,6 @@
 ---
-id: imprudence
-label: Imprudence
+id: inconstancy
+label: Inconstancy
 type: vice
 family: prudence
 tags:
@@ -9,14 +9,16 @@ tags:
   - aquinas
 refs:
   - aquinas
-summary: "The vice opposed to prudence."
+summary: "A species of imprudence characterized by a defect in command."
 aliases:
-  - imprudent
+  - irresoluteness
+  - wavering
 related:
-  - prudence
+  - imprudence
+  - command
 ---
 
-# Imprudence
+# Inconstancy
 ![Vice](https://img.shields.io/badge/type-vice-red)
 ![Defect](https://img.shields.io/badge/family-opposed-white)
 

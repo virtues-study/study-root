@@ -1,6 +1,6 @@
 ---
-id: imprudence
-label: Imprudence
+id: precipitation
+label: Precipitation
 type: vice
 family: prudence
 tags:
@@ -9,14 +9,16 @@ tags:
   - aquinas
 refs:
   - aquinas
-summary: "The vice opposed to prudence."
+summary: "A species of imprudence characterized by a defect in counsel or deliberation."
 aliases:
-  - imprudent
+  - rashness
+  - hastiness
 related:
-  - prudence
+  - imprudence
+  - deliberation
 ---
 
-# Imprudence
+# Precipitation
 ![Vice](https://img.shields.io/badge/type-vice-red)
 ![Defect](https://img.shields.io/badge/family-opposed-white)
 

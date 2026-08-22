@@ -1,6 +1,6 @@
 ---
-id: imprudence
-label: Imprudence
+id: thoughtlessness
+label: Thoughtlessness
 type: vice
 family: prudence
 tags:
@@ -9,14 +9,15 @@ tags:
   - aquinas
 refs:
   - aquinas
-summary: "The vice opposed to prudence."
+summary: "A species of imprudence characterized by a defect in judgment."
 aliases:
-  - imprudent
+  - inconsideration
 related:
-  - prudence
+  - imprudence
+  - judgment
 ---
 
-# Imprudence
+# Thoughtlessness
 ![Vice](https://img.shields.io/badge/type-vice-red)
 ![Defect](https://img.shields.io/badge/family-opposed-white)
 
