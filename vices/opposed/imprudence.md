@@ -18,7 +18,7 @@ related:
 
 # Imprudence
 ![Vice](https://img.shields.io/badge/type-vice-red)
-![Defect](https://img.shields.io/badge/family-prudence-white)
+![Prudence](https://img.shields.io/badge/family-prudence-white)
 
 
 
