@@ -92,7 +92,45 @@ This virtue goes beyond physical bravery but represents spiritual courage “roo
 
 
 ### Josef Pieper [^jpieper]
-<NEXT>
+* Without vulnerability there is no fortitude. p117
+* To be brave it doesn't mean to have no fear. p126
+* Fortitude is the readiness to die or, more accurately, readiness to fall, to die, in battle. p117
+* The highest achievement of fortitude is martyrdom. (NOTE: martyrdom does not include seeking to die in the name of a good) p117
+* It is not about tossing goods away lightly but to let them go for the sake of a higher good. p120
+* **Man must know what the good is**... it is for the sake of the good that the brave man exposes himselfto the danger of death. p122
+> It is important to know what good is
+* Without prudence, without justice, there cannot be fortitude. Only the prudent and just man can be brave. p123
+* For the "astute" man, bravery looks foolish. Thus, being astute is a having false prudence. p123
+* Prudence, through justice, informs fortitude. p124
+* Fortitude presuposes in a certain sense that man is afraide of evil; its essence is not in knowing no fear, but in not allowing oneself to be forced into evil by fear, or to be kept by fear from realization of good.
+* Fortitude is tightly related to hope, as one desire to go to heaven will provide the strength to be brave.
+
+#### Aspects of Fortitude
+1. Endurance
+   * Sometimes to endure and suffer are the only alternatives of resistance to some evil.
+   * It involves a strong activity of the soul, a vigorous graspong of and clinging to the good.
+   * The same applies to the virtue of patience.
+     * The patient man is not the one that does not flee from evil, but the one who does not allow himselfto be made inordenately sorrowful thereby. To be patient means to preserve cheerfulness and serenity of mind. p129
+     * Patience is subordinated to fortitude.
+2. Attack 
+   * The brave man uses wrath (I would use anger and let wrath mean sinful anger...) for his own act, above all in attack, for it is peculiar to wrath to pounce upon evil.
+   * Fortitude and wrath work directly upon each other. p130
+
+It takes more to endure than to attack.
+Christ example of these aspects. On one side, he used righteous anger to drive the money-changers from the temple, and the other he used patience to reply to the one who struck him if I said something wrong, what did I say? and if not, why do you strike me?
+
+#### Three Levels of Fortitude
+1. Pre-moral, natural
+2. Moral, related to ethics, human understanding and teaching
+3. Supermoral, related to infussed virtue, it is supernatural and related to theological virtue of charity.
+
+#### Three Degrees of Fortitude (Aquinas)
+1. Political fortitude, common day-to-day community life fortitude.
+   * Consists mainly in combating outward resistance in order to help justice to realization.
+2. Purgatorial purifying fortitude, mystic's fortitude to endure the mystical life. 
+3. Purified spirit fortitude, supernatural fortitude when the greatest heights of sanctity are acquired on earth.
+
+There is no clear division between them as they are interlocked between each other.
 
 
 ### Victory over Vice

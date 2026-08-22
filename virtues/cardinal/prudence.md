@@ -258,7 +258,9 @@ In summary, bad habits and vices related to the virtue of prudence are:
 * Rashness
 * Over-deliveration
 * Negligence
+* Procrastination
 * Inconstancy
+* Irresolutness
 
 In a simplified Aristotelian framework, prudence may be viewed as lying between rashness and excessive caution or indecision.
 
@@ -362,7 +364,22 @@ Decision
  Action
 ```
 
-
+Aquinas taxonomy
+```
+                    VICES OPPOSED TO PRUDENCE
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+        IMPRUDENCE                     FALSE PRUDENCE /
+          q.53–54                       UNDUE SOLICITUDE
+             │                              q.55
+       ┌─────┼────────┐                       │
+       │     │        │                ┌──────┼───────┐
+ Precipi- Thought- Inconstancy       Prudence Craftiness Solicitude
+ tation   lessness      │            of flesh     │
+                        │                      ┌────┴────┐
+                   Negligence                Guile    Fraud
+```
 
 ## Seattle Pacific University Virtue Framework
 
