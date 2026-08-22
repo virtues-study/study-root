@@ -2,3 +2,7 @@ from,to,weight,ref,note
 precipitation,imprudence,1.0,ST II-II Q53 A3,Precipitation is a species of imprudence.
 thoughtlessness,imprudence,1.0,ST II-II Q53 A4,Thoughtlessness or inconsideration is a species of imprudence.
 inconstancy,imprudence,1.0,ST II-II Q53 A5,Inconstancy is a species of imprudence.
+general_justice,justice,1.0,ST II-II Q58 A5-6,General or legal justice orders acts toward the common good
+particular_justice,justice,1.0,ST II-II Q58 A7,Particular justice concerns what is due to particular persons
+distributive_justice,particular_justice,1.0,ST II-II Q61 A1,Distributive justice orders the distribution of common goods to individuals
+commutative_justice,particular_justice,1.0,ST II-II Q61 A1,Commutative justice orders dealings between one individual and another
