@@ -2,19 +2,28 @@
 id: religion
 label: Religion
 type: virtue
-family: related
-tags: [worship, devotion, reverence, piety]
-
+family: justice
+tags:
+  - virtue
+  - justice
+  - aquinas
+  - worship
+  - reverence
 refs:
-  - ST: "II-II, q.81–100"
+  - aquinas
+summary: "The virtue by which a person renders to God the worship and honor that are due to Him."
+aliases: []
+related:
+  - justice
 ---
 
 # Religion
-![Virtue](https://img.shields.io/badge/Type-Virtue-blue)
-![Related](https://img.shields.io/badge/Family-Related-tomato)
+
+![Virtue](https://img.shields.io/badge/type-virtue-blue)
+![Justice](https://img.shields.io/badge/family-justice-white)
 
 ## Definition
-(Placeholder — to be added.)
 
-## Notes
-In Thomistic virtue theory, religion is commonly treated as a potential part of justice.
+Religion is the virtue by which a person renders to God the worship and honor that are due to Him. Aquinas treats religion as a potential part of justice because the debt owed to God cannot be repaid according to strict equality.
+
+**Primary reference:** *Summa Theologiae* II-II, q.81.
