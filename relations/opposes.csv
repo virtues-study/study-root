@@ -3,3 +3,8 @@ despair,hope,1.0,XYZ,Opposed to hope (defect)
 presumption,hope,1.0,ABC,Opposed to hope (excess)
 imprudence,prudence,1.0,ST II-II Q53 A1-2,Imprudence is the vice opposed to prudence.
 injustice,justice,1.0,ST II-II Q59 A1,Injustice is the vice opposed to justice
+theft,commutative_justice,1.0,ST II-II Q66,Theft violates what is due to another concerning external possessions
+robbery,commutative_justice,1.0,ST II-II Q66,Robbery violates what is due to another through the violent taking of possessions
+fraud,commutative_justice,1.0,ST II-II Q77,Fraud violates the equality required in voluntary exchange
+usury,commutative_justice,1.0,ST II-II Q78,Usury as treated by Aquinas violates justice in lending and exchange
+false_testimony,truthfulness,1.0,ST II-II Q70,False testimony violates truthfulness while also committing injustice against another

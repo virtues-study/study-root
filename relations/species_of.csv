@@ -6,3 +6,10 @@ general_justice,justice,1.0,ST II-II Q58 A5-6,General or legal justice orders ac
 particular_justice,justice,1.0,ST II-II Q58 A7,Particular justice concerns what is due to particular persons
 distributive_justice,particular_justice,1.0,ST II-II Q61 A1,Distributive justice orders the distribution of common goods to individuals
 commutative_justice,particular_justice,1.0,ST II-II Q61 A1,Commutative justice orders dealings between one individual and another
+theft,injustice,1.0,ST II-II Q66,Theft is a form of injustice concerning another person's property
+robbery,injustice,1.0,ST II-II Q66,Robbery is a form of injustice involving the violent taking of another person's property
+unjust_judgment,injustice,1.0,ST II-II Q67,Unjust judgment is a form of injustice committed in judicial judgment
+false_testimony,injustice,1.0,ST II-II Q70,False testimony is a form of injustice committed through false witness
+detraction,injustice,1.0,ST II-II Q73,Detraction is a form of injustice against another person's reputation
+fraud,injustice,1.0,ST II-II Q77,Fraud in exchange is a form of injustice that violates equality between parties
+usury,injustice,1.0,ST II-II Q78,Usury as treated by Aquinas is a form of injustice in lending
