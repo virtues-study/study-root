@@ -302,9 +302,9 @@ We must be careful. Prayer is the solution, as a personal and intimate relation 
 [^vov]: SHEEN, FULTON J. VICTORY OVER VICE & THE SEVEN VIRTUES. S.l.: BISHOP SHEEN TODAY, 2021.
 [^hfsof]: “Temperance.” School of Faith, n.d. https://schooloffaith.com/rosary-archive/temperance-3.
 [^jpieper]: Pieper, Josef. The Four Cardinal Virtues. Translated by Richard and Clara Winston. University of Notre Dame Press, 1966.
-[^1] [CCC, 1809](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1809)
-[^2] [Compendium of the Catechism of the Catholic Church, 383](https://www.magisterium.com/docs/c6c4d3fe-2afe-4d7d-91b6-672dac04569c/ref/383)
-[^3] [General Audience of 17 April 2024 - Cycle of Catechesis. Vices and Virtues. 15. Temperance, Cycle of Catechesis. Vices and Virtues. 15. Temperance](https://www.magisterium.com/docs/96999aac-e1d7-4fdc-9911-a909daa1ac17/ref/Cycle%20of%20Catechesis.%20Vices%20and%20Virtues.%2015.%20Temperance)
-[^4] [General Audience of 22 November 1978, page1](https://www.magisterium.com/docs/1c339833-225c-451c-b6d9-16c72254e226/ref/page1)
-[^5] [CCC, 2290](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2290)
-[^6] [Catholic Encyclopedia, Virtue](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Virtue)
+[^1]: [CCC, 1809](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1809)
+[^2]: [Compendium of the Catechism of the Catholic Church, 383](https://www.magisterium.com/docs/c6c4d3fe-2afe-4d7d-91b6-672dac04569c/ref/383)
+[^3]: [General Audience of 17 April 2024 - Cycle of Catechesis. Vices and Virtues. 15. Temperance, Cycle of Catechesis. Vices and Virtues. 15. Temperance](https://www.magisterium.com/docs/96999aac-e1d7-4fdc-9911-a909daa1ac17/ref/Cycle%20of%20Catechesis.%20Vices%20and%20Virtues.%2015.%20Temperance)
+[^4]: [General Audience of 22 November 1978, page1](https://www.magisterium.com/docs/1c339833-225c-451c-b6d9-16c72254e226/ref/page1)
+[^5]: [CCC, 2290](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2290)
+[^6]: [Catholic Encyclopedia, Virtue](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Virtue)
