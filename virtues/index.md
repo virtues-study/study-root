@@ -99,7 +99,7 @@ Not virtues but closely related to virtue which is why they are included. Gifts 
 
 - [Meekness](related/meekness)
 - [Memory](related/memory)
-- [Modesty or decorum](related/modesty-decorum)
+- [Modesty](related/modesty)
 - [Obedience](related/obedience)
 - [Observance](related/observance)
 - [Patience](related/patience)
