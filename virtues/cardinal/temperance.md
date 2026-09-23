@@ -106,6 +106,26 @@ The virtue of temperance disposes us to avoid every kind of excess: the abuse of
 
 ### Josef Pieper [^jpieper]
 
+- The purpose and goal of temperantia is man;s inner order, from which alone this 'serenity of spirit' can flow forth. Temperance signifies the realizing of this order within oneself. p147
+- Temperance aims at each man himself. Unlike the other three that aim outside of man.
+- Temperance is selfless self-preservation. Intemperance is self-destruction through selfish degradation of the powers which aim at self-preservation. p148
+- Through temperance a moral person can live effectively p150
+- Self-preservation is echoed in the desire for food, drink, and sexual pleasure. Temperance defends the person agains the perversion of the inner order of these desires.
+- Temperance opposes the impulsive destructive and pathological compulsive greed for these goods necessary for self-preservation.
+- The idea is not to "turn off" the God given desires for these goods (food, drink, sex, knowledge, etc.), but to pursue them in an ordered way.
+- Man needs to have constant spiritual awareness, anything that clouds it is unspiritual, consequently unworthy of the human condition, and therefore evil. p157
+  - To navigate the technological world, a person needs spiritual awareness... I will need to define what that is, but in general terms is to know himself spiritually, where strengths and weaknesses reside, and how to take advantage of strengths and avoid temptation on weaknesses, or strengthening the soul and grow in virtue in the weak points.
+- Adultery is both intemperate and unjust. p158
+- Unchastity begets a blindness of spirit. p159
+  - I once read somewhere that lust diminishes the intellect
+- Chastity leads to contemplation
+  - Chastity helps with focus; distraction in the tech-era and lack of abilities to concentrate are characteristics of current generations
+
+> Aristotle said there are four ways to live one's life: full vice, full virtue (you know what is good and **effortlessly** seek it), continentia (you summon the will to go after the good, it requires effort), incontenentia (barely aware of the good, the will is broken).
+
+- Full virtue, or vice has deep roots in the basic attitude of man. It becomes second nature.
+- Incontinentia and continentia, "neither is necessarily based on what might be called a natural inclination of being; neither has yet grown firm roots in the existential core of man. p163
+
 
 ### Vice over Virtue [^vov]
 * “Because our needs are limited, but our wants are unlimited, a virtue is necessary to restrain our inordinate appetites and desires – and that virtue is called temperance. It has for object the regulation of the sensible appetites by reason.”
