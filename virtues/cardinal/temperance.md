@@ -39,7 +39,14 @@ related:
 ### Lutheranism
 
 #### Summary
+**Lutheranism affirms temperance as self-control within the Christian life, emphasizing it as a fruit of faith and the Holy Spirit.** In its confessional teaching:
 
+- **Temperance follows salvation; it does not earn it.** Good works arise from faith and renewal, while acceptance before God rests on Christ. ([Smalcald Articles, III.13](https://bookofconcord.org/smalcald-articles/iii/of-good-works/))
+- **Self-discipline matters.** Restraining sinful desires and practicing moderation belong to a life guided by God’s commandments. This obedience remains imperfect and dependent on grace. ([Formula of Concord, VI](https://bookofconcord.org/solid-declaration/third-use-of-the-law/))
+- **Practices such as fasting can help.** Luther calls fasting useful outward training, but it cannot replace faith or make someone spiritually worthy. ([Small Catechism](https://thebookofconcord.org/small-catechism/part-vi/sc-vi-0010/))
+- **Discipline should serve ordinary life and duty.** Luther rejects fasting so extreme that it damages health; its purpose is to restrain disordered desires. ([Treatise on Good Works](https://ccel.org/ccel/luther/good_works/good_works.vi.html))
+
+For your map, a Lutheran framing would be **temperance → `fruit_of` → Spirit-worked faith**, and **temperance → `belongs_to` → sanctification**. This summarizes the theological emphasis; it is not a formal Lutheran taxonomy corresponding to Aquinas’s “potential parts.”
 
 #### Expanded account with checked references
 
@@ -55,35 +62,85 @@ A working definition:
 
 #### Contrast with Aquinas
 
-| Topic | Thomas Aquinas | Classical Lutheranism [^luther_prudence] |
+| Topic | Thomas Aquinas | Classical Lutheranism |
 | --------- | --------- | --------- |
+| Place of temperance | A cardinal virtue moderating bodily pleasures; related virtues extend moderation to other desires and passions. | Christian self-control, understood chiefly within sanctification and obedience to God. |
+| How it develops | Distinguishes **acquired temperance**, formed through practice, from **infused temperance**, given by God and directed toward a supernatural end. | Distinguishes outward self-restraint, possible through natural capacities, from spiritual obedience produced by the Holy Spirit through faith. |
+| Relation to salvation | Acquired virtue cannot attain supernatural salvation; infused temperance belongs to the life of grace. | Temperance follows justification as a fruit of faith; it neither earns forgiveness nor forms the basis of acceptance before God. |
+| Meekness and studiousness | “Potential parts” of temperance: associated virtues moderating anger and the desire for knowledge. | Compatible with Christian discipleship, but their classification under temperance is not a defining confessional teaching. |
+| Practical emphasis | Ordering desires according to reason and, in infused virtue, the divine rule. | Restraining sinful desires and serving one’s neighbor in ordinary callings, guided by God’s commandments. |
+| Suggested map relation | `meekness / studiositas → potential_part_of → temperance` | `temperance → belongs_to → sanctification`; Christian temperance is `fruit_of → Spirit-worked faith`. |
 
-
+Sources: Aquinas, [*Summa* I–II, 63](https://www.newadvent.org/summa/2063.htm), [II–II, 141](https://www.newadvent.org/summa/3141.htm), [157](https://www.newadvent.org/summa/3157.htm), and [166](https://www.newadvent.org/summa/3166.htm); Lutheran confessions, [Augsburg Confession XVIII](https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_xviii/), [Formula of Concord III](https://bookofconcord.org/solid-declaration/righteousness-of-faith/), and [VI](https://bookofconcord.org/solid-declaration/third-use-of-the-law/).
 
 
 ### Calvinism 
 
+#### Summary
+**Classical Calvinism understands temperance as self-control produced by the Holy Spirit, through which believers govern their desires and grow in holiness.**
+
+- **A fruit of the Spirit.** Temperance belongs to the renewed Christian life, alongside gentleness, patience, and love. ([Calvin, commentary on Galatians 5:22–26](https://ccel.org/ccel/calvin/calcom41/calcom41.iii.vii.v.html?scrBook=Gal&scrCh=5&scrV=24))
+- **Part of sanctification.** Growth involves weakening sinful desires and strengthening obedience to God. This remains an imperfect, lifelong struggle. ([Westminster Confession, chapter 13](https://opc.org/wcf.html))
+- **Practiced actively through dependence on grace.** Believers must exercise self-discipline, while their ability to perform spiritually good works comes from the Spirit of Christ. ([Westminster Confession, 16.3](https://opc.org/wcf.html))
+- **Evidence of faith, without earning salvation.** Temperate conduct expresses gratitude, benefits others, and glorifies God; it cannot merit forgiveness or eternal life. ([Westminster Confession, 16.2–5](https://opc.org/wcf.html))
+
+For your map: **temperance → `fruit_of` → Holy Spirit**, and **temperance → `belongs_to` → sanctification**. Its exercise can also be **`evidence_of` → living faith**.
+
+On these points, Calvinism and classical Lutheranism substantially agree; the distinction from Aquinas concerns the theological framework more than the practical value of moderation.
+
 #### Contrast with Aquinas
 
-| Topic | Thomas Aquinas | Classical Lutheranism [^calvinism_prudence] |
+| Topic | Thomas Aquinas | Calvinism |
 | --------- | --------- | --------- |
+| Place of temperance | A cardinal virtue moderating bodily pleasures; associated virtues extend moderation to other passions and desires. | Self-control understood chiefly as a fruit of the Holy Spirit within sanctification. |
+| How it develops | Distinguishes **acquired temperance**, formed through practice, from **infused temperance**, given by God. | Christian temperance develops through the Spirit’s renewal, expressed in active obedience and self-discipline. |
+| Natural self-restraint | Acquired temperance is a genuine natural virtue, distinct from infused virtue directed toward supernatural life. | Outward restraint can benefit oneself and others, but spiritually good conduct requires faith, conformity to God’s Word, and the aim of glorifying God. |
+| Relation to salvation | Acquired temperance cannot attain supernatural salvation; infused temperance belongs to the life of grace. | Temperance is a fruit and evidence of saving faith; it does not earn justification or eternal life. |
+| Meekness and studiousness | “Potential parts” of temperance, moderating anger and the desire for knowledge. | Gentleness and disciplined learning are compatible with Christian obedience; their classification under temperance is not a defining Reformed teaching. |
+| Practical emphasis | Ordering desires according to reason and, in infused temperance, the divine rule. | Restraining sinful desires, growing in holiness, and using one’s life to glorify God and serve others. |
+| Suggested map relation | `meekness / studiositas → potential_part_of → temperance` | `temperance → fruit_of → Holy Spirit`; `temperance → belongs_to → sanctification`. |
 
+Sources: Aquinas, [*Summa* I–II, 63](https://www.newadvent.org/summa/2063.htm), [II–II, 141](https://www.newadvent.org/summa/3141.htm), [157](https://www.newadvent.org/summa/3157.htm), and [166](https://www.newadvent.org/summa/3166.htm); Calvin, [commentary on Galatians 5:22–26](https://www.ccel.org/ccel/calvin/calcom41.v.v.html); [Westminster Confession, chapters 13 and 16](https://opc.org/wcf.html).
 
 
 ### Methodism (Check References)
 
+#### Summary
+**Methodism understands temperance as grace-enabled self-control within a life growing in holiness and love.** Its distinctive emphasis is on putting that transformation into practice.
 
+- **Part of sanctification.** God’s grace renews desires and conduct, directing believers toward love of God and neighbor. Temperance serves this larger goal of holiness. ([Wesleyan emphases](https://www.umc.org/en/content/distinctive-wesleyan-emphases))
+- **Cultivated through active participation in grace.** Prayer, Scripture, fasting, Communion, and mutual accountability help believers grow in disciplined living. These practices receive and respond to grace; they do not purchase it. ([Means of grace](https://www.umc.org/en/content/the-wesleyan-means-of-grace))
+- **A fruit of faith, without earning forgiveness.** Good works follow living faith and are pleasing to God through Christ, but cannot remove sin. ([Articles of Religion, Article X](https://www.umc.org/en/content/articles-of-religion))
+- **Personal and social in its effects.** Methodist temperance has included a strong historical concern about alcohol and its harms to individuals, families, and communities. The United Methodist Church today commends abstinence without requiring it; this is a specific denominational position, not a universal rule for all Methodists. ([United Methodist teaching on alcohol](https://www.umc.org/content/ask-the-umc-may-united-methodists-drink-alcohol))
+
+For your map: **temperance → `belongs_to` → sanctification**, **`enabled_by` → grace**, and **`serves` → love of God and neighbor**. These are summary relationships, rather than a formal Methodist classification of virtues.
 
 #### Contrast with Aquinas
 
-| Topic | Thomas Aquinas | Classical Methodism (Wesleyan Tradition) [^methodism_prudence] |
+| Topic | Thomas Aquinas | Classical Methodism (Wesleyan Tradition) |
 | --------- | --------- | --------- |
+| Place of temperance | A cardinal virtue moderating bodily pleasures; associated virtues extend moderation to other passions and desires. | Grace-enabled self-control within sanctification and growth in love of God and neighbor. |
+| How it develops | Distinguishes **acquired temperance**, developed through practice, from **infused temperance**, given by God. | Develops through sanctifying grace and the believer’s active response, supported by prayer, fasting, Communion, and mutual accountability. |
+| Relation to salvation | Acquired temperance cannot attain supernatural salvation; infused temperance belongs to the life of grace. | Temperance belongs to the transformation salvation brings; it does not earn forgiveness or justification. |
+| Goal | Desires ordered according to reason and, in infused virtue, the divine rule and supernatural end. | Desires and conduct transformed toward **perfect love**—the Wesleyan goal of Christian perfection. |
+| Meekness and studiousness | “Potential parts” of temperance, moderating anger and the desire for knowledge. | Meekness and disciplined learning support holy living; their classification under temperance is not a defining Wesleyan teaching. |
+| Practical emphasis | Habits of moderation, guided by prudence and integrated with the other virtues. | Disciplined habits joining personal holiness with practical love and service to others. |
+| Suggested map relation | `meekness / studiositas → potential_part_of → temperance` | `temperance → belongs_to → sanctification`; `temperance → enabled_by → grace`; `temperance → serves → perfect love`. |
+
+Sources: Aquinas, [*Summa* I–II, 63](https://www.newadvent.org/summa/2063.htm), [II–II, 141](https://www.newadvent.org/summa/3141.htm), [157](https://www.newadvent.org/summa/3157.htm), and [166](https://www.newadvent.org/summa/3166.htm); Methodist [Articles of Religion, Article X](https://www.umc.org/en/content/articles-of-religion), [Wesleyan emphases](https://www.umc.org/en/content/distinctive-wesleyan-emphases), and [means of grace](https://www.umc.org/en/content/the-wesleyan-means-of-grace).
 
 ### Comparison
 
 | Tradition | Definition Emphasis | Role of Temperance | Organizing Principle of Christian Ethics |
 | --------- | ------------------- | ---------------- | ---------------------------------------- |
+| **Catholic (Thomistic emphasis)** | Moderation of bodily pleasures according to reason; related virtues govern other desires and passions. | A cardinal virtue, acquired through practice or infused by God, integrated with the other virtues and perfected by charity. | Pursuit of beatitude through a virtuous life, guided by reason and divine law, elevated by grace, and ordered by charity. |
+| **Lutheranism** | Spirit-enabled self-control expressed in faithful daily living. | A fruit of faith within sanctification; serves the neighbor without earning justification. | Justification by faith, distinguished from and followed by sanctification; God’s commandments guide love and service within ordinary callings. |
+| **Calvinism** | Spirit-produced self-control that restrains sinful desires and promotes holiness. | Part of sanctification and evidence of living faith; glorifies God without meriting salvation. | Union with Christ, bringing distinct but inseparable justification and sanctification; God’s moral law guides grateful obedience. |
+| **Methodism (Wesleyan tradition)** | Grace-enabled self-control cultivated through spiritual discipline and growth in love. | Part of sanctification, developed through active response to grace and directed toward perfect love. | Grace-enabled growth in holiness toward love of God and neighbor, joining personal devotion with practical service. |
 
+These are differences of emphasis: all four affirm grace, self-discipline, love, and obedience.
+
+Sources: Aquinas, [on temperance](https://www.newadvent.org/summa/3141.htm) and [acquired and infused virtues](https://www.newadvent.org/summa/2063.htm); Lutheran [Formula of Concord, VI](https://bookofconcord.org/solid-declaration/third-use-of-the-law/); Reformed [Westminster Confession, chapters 11–16 and 19](https://opc.org/wcf.html); Methodist [Wesleyan emphases](https://www.umc.org/en/content/distinctive-wesleyan-emphases).
 
 ### New Advent Encyclopedia [^nae]
 > Temperance is here considered as one of the four cardinal virtues. It may be defined as the righteous habit which makes a man govern his natural appetite for pleasures of the senses in accordance with the norm prescribed by reason. In one sense temperance may be regarded as a characteristic of all the moral virtues; the moderation it enjoins is central to each of them. It is also according to St. Thomas (II-II:141:2) a special virtue. Thus, it is the virtue which bridles concupiscence or which controls the yearning for pleasures and delights which most powerfully attract the human heart. These fall mainly into three classes: some are associated with the preservation of the human individual; others with the perpetuation of the race, and others still with the well-being and comfort of human life. Under this aspect temperance has for subordinate virtues, abstinence, chastity, and modesty. Abstinence prescribes the restraint to be employed in the partaking of food and drink. Obviously the measure of this self-restraint is not constant and invariable. It is different for different persons as well as for different ends in view. The diet of an anchorite would not do for a farm labourer. Abstinence is opposed to the vices of gluttony and drunkenness. The disorder of these is that food and drink are made use of in such wise as to damage instead of benefit the bodily health. Hence gluttony and drunkenness are said to be intrinsically wrong. That does not mean, however, that they are always grievous sins. Gluttony is seldom such; drunkenness is so when it is complete, that is when it destroys the use of reason for the time being. Chastity as a part of temperance regulates the sensual satisfactions connected with the propagation of the human species. The contrary vice is lust. As these pleasures appeal with the special vehemence to human nature, it is the function of chastity to impose the norm of reason. Thus it will decide that they are altogether to be refrained from in obedience to a higher vocation or at any rate only availed of with reference to the purposes of marriage. Chastity is not fanaticism; much less is it insensibility. It is the carrying out of the mandate of temperance in a particular department where such a steadying power is acutely needed.
