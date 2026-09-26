@@ -21,3 +21,4 @@ related:
 
 # meekness
 
+Meekness is the inner disposition that governs anger

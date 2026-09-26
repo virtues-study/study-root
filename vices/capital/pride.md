@@ -18,3 +18,5 @@ related:
   - humility
   - temperance
 ---
+
+Pieper: Pride is the antirealistic denial of the relationship between creature and creator.

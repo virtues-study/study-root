@@ -107,6 +107,7 @@ The virtue of temperance disposes us to avoid every kind of excess: the abuse of
 ### Josef Pieper [^jpieper]
 
 - The purpose and goal of temperantia is man;s inner order, from which alone this 'serenity of spirit' can flow forth. Temperance signifies the realizing of this order within oneself. p147
+- The goal and norm of temperance is blessedness. p188
 - Temperance aims at each man himself. Unlike the other three that aim outside of man.
 - Temperance is selfless self-preservation. Intemperance is self-destruction through selfish degradation of the powers which aim at self-preservation. p148
 - Through temperance a moral person can live effectively p150
@@ -120,11 +121,53 @@ The virtue of temperance disposes us to avoid every kind of excess: the abuse of
   - I once read somewhere that lust diminishes the intellect
 - Chastity leads to contemplation
   - Chastity helps with focus; distraction in the tech-era and lack of abilities to concentrate are characteristics of current generations
+- Temperantia varies according to the individual, who could determine when lack of control ends and when actual intemperance begins? p165
+  - It becomes necessary to know oneself
+- Temperance is something exclusive to humanity p166
+- We must never lose sight of the fact that the essential nature of sin lies exclusively in this willful turning away from God. p173
+- Temperance is the prerequisite for both the realization of the good and the actual movement of man toward this goal. p175
+- Virginity is not a fact, byt an act; not a condition, but a decision. p176
+- Marriage is both a natural and a supernatural good. p177
+- Our natural duty obligues us to pay dearlu so that we may become what we are by essence: the free moral person in full possesion of himself. p182
+- Fasting is related to the virtue of abstinentia, related to the art of healing p183
+- Fasting should be performed with a cheerful heart.
+  - As should all virtues
+- Hebetudo sensus: the dulling and obscuring of te inner perception of spiritual realities. p184
+- *Can a robot be sentient?*
+- Where there is no sense of touch, there is no sentient life. p186
+- Among all sentient creatures man has the best sense of touch. p186
+- The human soul is simultaneously vegetative, sentient, and rational.
+- Sentient life is characterized by sensation and appetite; and in human beings elevated and governed by reason.
+- To possess better sense of touch is to possess better cognition. p186
+- The sense of touch is the basis of all other senses. p187
+- The virtue of high-mindedness (magnanimity) is when a man feels the potentiality of greateness and prepares for it. p189
+  - Implies a firmness of hope, an actually challenging assurance, and the perfect peace of a fearless heart. p190
+- Wrath and Anger
+  - Wrath is a force directed toward the difficult of achievement, toward the thing beyond the easy grasp, ever ready to expose itself wherever an arduous goodwaits to be conquered. p193
+  - Wrath is the strength to attack the repugnant; the power of anger is actually the power of resistance of the soul.
+  - Wrath is a passionate desire for just retribution of injustice that has been suffered. p194
+  - Anger is good if, in accordance with the order of reason, it is brought unto service for the true goals of man.
+  - Anger tha breaks all bountds and disrupts the order of reason is evil and is sin.
+  - Blind wrath, bitterness of spirit, and revengeful resentment, the three forms of intemperate anger.
+  - Meekness: is the inner disposition that governs anger; 
+  - Gentleness: is its characteristic expression in how we treat others.
+  - Gentleness above all makes man master of himself. p195
+- In terms of the desire for knowledge, if temperate is called studiositas, if intemperate is called curiositas
+- Acedia is the dreary sadness of a heart unwilling to accept the greatness to which man is called by God
+```
+Acedia (sloth) --> curiositas
+               --> despair
+```
+- Temperance and intemperance of outward behavior and expression can have its strenghtening or weakining repercusion on the inner order of man. p204
+- Temperance effects purification p205
+- Temperance is served by solitude, fasting, night watches, and penitence
+
 
 > Aristotle said there are four ways to live one's life: full vice, full virtue (you know what is good and **effortlessly** seek it), continentia (you summon the will to go after the good, it requires effort), incontenentia (barely aware of the good, the will is broken).
 
 - Full virtue, or vice has deep roots in the basic attitude of man. It becomes second nature.
 - Incontinentia and continentia, "neither is necessarily based on what might be called a natural inclination of being; neither has yet grown firm roots in the existential core of man. p163
+- 
 
 
 ### Vice over Virtue [^vov]
